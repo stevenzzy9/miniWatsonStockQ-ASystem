@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/52/trunk/src/java/ruc/irm/similarity/word/hownet2/concept
+END
+LiuConceptParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/19/trunk/src/java/ruc/irm/similarity/word/hownet2/concept/LiuConceptParser.java
+END
+BaseConceptParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/52/trunk/src/java/ruc/irm/similarity/word/hownet2/concept/BaseConceptParser.java
+END
+concept.xml.gz
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/19/trunk/src/java/ruc/irm/similarity/word/hownet2/concept/concept.xml.gz
+END
+XiaConceptParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/42/trunk/src/java/ruc/irm/similarity/word/hownet2/concept/XiaConceptParser.java
+END
+Concept.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/35/trunk/src/java/ruc/irm/similarity/word/hownet2/concept/Concept.java
+END
+ConceptDictTraverseEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/19/trunk/src/java/ruc/irm/similarity/word/hownet2/concept/ConceptDictTraverseEvent.java
+END
+ConceptLinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/src/java/ruc/irm/similarity/word/hownet2/concept/ConceptLinkedList.java
+END

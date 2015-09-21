@@ -1,0 +1,357 @@
+* { padding: 0; margin: 0; border: 0; }
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;
+color:blue;}
+a:active {text-decoration: none;}
+a:hover {text-decoration:underline;}
+
+
+.mid{
+	height:34px;
+	float:left;
+	margin-left:90px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+.button {
+	margin-top:10px;
+	float:left;
+    width:131px;
+    height:34px;
+    display:block;
+    background:url(../images/button2.png) top no-repeat;
+	text-align:center; 
+}
+.button:hover{
+	background:url(../images/button2.png) bottom no-repeat;
+	 cursor:pointer;
+}
+.search{
+	width:471px;
+	height:34px;
+	margin-bottom:10px;
+	margin-left:230px;
+	background-image:url(../images/sousuo.png);
+	background-repeat:no-repeat;
+	padding-left:40px;
+	padding-right:-40px;
+	vertical-align:middle;
+}
+
+body{
+	background-color:#fff;
+}
+
+.list{
+	float:left;
+	margin-left:40px;
+	list-style-type:none;
+}
+
+#change{
+	width:100%;
+	min-height:80px;
+}
+.T_logo{
+	background-color:#FFF;
+	height:70px;
+	width:100%;
+	background-image:url(../images/m_log.jpg);
+	background-repeat:no-repeat;
+	background-position:120px;
+}
+
+.blank{
+	width:20%;
+}
+#tabs  > div{
+	min-height:50px;
+	background-color:#FFF;
+	width:100%;
+	position: absolute;
+	border:#ddd solid;
+	border-bottom-width:1px;
+	border-top-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+}
+
+#nav{
+	width:100%;
+	height:39px;
+	background-image:url(../images/wangye.png);
+	text-align:center;
+	}	
+#nav a{
+	color:#444;
+	float:left;
+	width:129px;
+	text-align: center;
+	height:29px;
+	font-size:14px;
+	padding-top:10px;
+}
+
+#nav li{
+	float:left;
+	width:129px;
+	text-align: center;
+	border-right: 1px solid #FFF;
+	height:39px;
+}
+#nav a:hover{
+	color:#555;
+	background-color:#EEE;}
+.current{
+	background-image:url(../images/libg2.png);
+	background-position:0px 0px -15px -15px;
+}
+#search{
+	min-height:500px;
+	}
+
+#footer{
+	clear:both;
+	width:100%;
+	font-size:0.85em;
+	margin-top:10px;
+	color:#999;
+}	
+.result{
+	width:990px;
+	margin-top:20px;
+	min-height:180px;
+	clear:both;
+	}	
+.B_r{
+	width:992px;
+	padding:3px;
+	border:#ddd solid;
+	border-bottom-width:1px;
+	border-top-width:3px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-color:#F54145;
+	border-bottom-color:#F4BBBC;
+	border-left-color:#F4BBBC;
+	border-right-color:#F4BBBC;
+	margin-bottom:10px;
+	padding-bottom:30px;
+}
+ p a{
+	 margin-left:10px;
+	 margin-right:10px;
+	 color:blue;
+	 }
+
+#link{
+	text-align:left;
+}
+.title{
+	color:#FFF;
+	background-image:url(../images/title_bg.png);
+	border:#F00 solid 1px;
+	width:781px;
+	min-height:25px;
+	padding-top:5px;
+	text-align:left;
+}
+
+
+.words{
+	padding-top:10px;
+	background-color:#FFF;
+	width:781px;
+	min-height:430px;
+	margin-top:5px;
+	margin-bottom:30px;
+	float:left;
+	border:#ddd solid 1px;
+	padding:2px;
+	text-align:left;
+}
+.words_xingu{
+	padding-top:10px;
+	background-color:#FFF;
+	min-height:430px;
+	margin-top:5px;
+	margin-bottom:30px;
+	float:left;
+	border:#ddd solid 1px;
+	padding:2px;
+	text-align:left;
+}
+.title_100{
+	color:#000;
+
+	width:960px;
+	min-height:25px;
+	float:left;
+	padding-top:5px;
+	text-align:left;
+	padding-left:30px;
+	margin-bottom:5px;
+}
+
+
+.words_100{
+	padding-top:10px;
+	background-color:#FFF;
+	width:800px;
+	min-height:430px;
+	margin-top:5px;
+	margin-bottom:30px;
+	float:left;
+	border:#ddd solid 1px;
+	text-align:left;
+}
+.words_more{
+		padding-top:10px;
+	background-color:#FFF;
+	width:830px;
+	margin-top:5px;
+	margin-bottom:10px;
+
+	
+	border:#ddd solid 1px;
+	text-align:left;
+	padding-left:30px;
+	padding-right:30px;
+	background-image:url(../images/words_bg.png);
+	background-repeat:repeat-x;
+	overflow:hidden;
+}
+.words_more pre{
+	float:left;
+}
+.words_slide{
+		padding-top:10px;
+	background-color:#FFF;
+	width:830px;
+	margin-top:5px;
+	margin-bottom:10px;
+
+	
+	border:#ddd solid 1px;
+	text-align:left;
+	padding-left:30px;
+	padding-right:30px;
+	background-image:url(../images/words_bg.png);
+	background-repeat:repeat-x;
+	overflow:hidden;
+}
+.c_slide{
+	float:right;
+}
+.c_slide:hover{
+	background-color:#f1f1f1;
+	cursor:pointer;
+}
+#biankuang{
+	width:100px;
+	height:150px;
+	border:#bbb solid 4px;
+	float:left;
+	margin-right:30px;
+	
+}
+#touxiang{
+	width:100px;
+	height:150px;
+	margin-bottom:20px;}
+	
+select{
+border:#ddd solid 1px;
+}
+#tree{
+	width:196px;
+	height:400px;
+	float:left;
+	margin-right:5px;
+	background-color:#fff;
+	min-height:475px;
+	border:#ddd solid 1px;
+}
+#tree_title{
+	width:194px;
+	height:32px;
+	background-image:url(../images/xiangxi.png);
+	}
+#tree a{
+	color:#000;
+	float:left;
+	width:180px;
+	text-align: center;
+	height:22px;
+	font-size:14px;
+	margin-top:5px;
+	padding-top:3px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#tree li{
+	float:left;
+	width:160px;
+	text-align: center;
+	margin-top: 0px;
+	border-right: 1px solid #FFF;
+	height:30px;
+}
+#tree a:hover{
+	color:#555;
+	background-color:#EEE;}
+#tree .tree_current{
+	color:#FFF;
+	background-color:#529bff;
+	}
+
+tr{	
+	height:30px;
+	font-size:0.8em;
+	}
+h2{
+	font-size:1.1em;
+	font-family:arial,宋体b8b\4f53,sans-serif;
+	clear:none;
+	float:left;
+}
+h1{
+	font-size:1.4em;
+	font-family:arial,宋体b8b\4f53,sans-serif;
+}
+.font_red {
+color: #F10000;
+}
+.font_green {
+color: #047800;
+}
+.gegu_qita{
+	margin-top:20px;
+	float:left;
+	margin-left:10px;
+	font-size:0.85em;
+}
+a{
+	font-size:0.9em;
+	font-family:arial,宋体b8b\4f53,sans-serif;
+}
+.words_more{
+	font-size:1.1em;
+	font-family:arial,宋体b8b\4f53,sans-serif;
+}
+.words_slide{
+	font-size:0.96em;
+	font-family:arial,宋体b8b\4f53,sans-serif;
+}
+#body, button, input, select, textarea {
+font: 14px/24px arial,宋体b8b\4f53,sans-serif;
+}
+pre{
+       white-space:pre-wrap; /* css-3 */
+       white-space:-moz-pre-wrap; /* Mozilla, since 1999 */
+       white-space:-pre-wrap; /* Opera 4-6 */
+       white-space:-o-pre-wrap; /* Opera 7 */
+       word-wrap:break-word; /* Internet Explorer 5.5+ */
+	   font-size:0.9em;
+	   font-family:arial,宋体b8b\4f53,sans-serif;
+}

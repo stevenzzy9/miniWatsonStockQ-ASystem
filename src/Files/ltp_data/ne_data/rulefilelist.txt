@@ -1,0 +1,12 @@
+/NErule/prbrule.txt 0
+/NErule/Nstypeend.txt 1
+/NErule/Nitypeend.txt 2
+/NErule/Nztypeend.txt 3
+/NErule/NiNsNzsuf.txt 4
+/NErule/presufNh.txt 5
+/NErule/NonTime.txt 6
+/NErule/Nm.txt 7
+/NErule/NmStop.txt 8
+/NErule/Nibeg.txt 9
+/NErule/Njni.txt 10
+/NErule/Njns.txt 11

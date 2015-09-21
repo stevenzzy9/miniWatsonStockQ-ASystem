@@ -1,0 +1,15 @@
+﻿/*新闻列表*/
+.newslist_table{ width:100%;}
+.newslist_classtitle{ background:url(http://i.ssimg.cn/images/info/image.gif) repeat-x 0px -447px; height:45px; padding-right:10px;}
+.newslist_classtitle .colnews_icon{ width:50px; height:45px; float:left;}
+.newslist_classtitle h1{ float:left; font-size:20px; font-family:"黑体"; color:#036;  padding:8px 5px 0px;  margin:0px; font-weight:100; }
+.newslist_classtitle .colnews_search{ float:right; padding-top:5px;}
+.newslist_classtitle .colnews_other{ float:right; padding-top:15px;}
+.newslist_content{ padding:5px; border-bottom:1px dashed #C9C9C9; margin:5px 0px; }
+.newslist_content li{ font-size:14px; width:420px; height:24px; line-height:24px; overflow:hidden; float:left;}
+.newslist_content .li_source{ width:80px; float:left; font-size:12px; color:#666666; overflow:hidden; text-align:right;}
+.newslist_content .li_time{ font-size:12px;width:130px; text-align:right; float:right;}
+.newslist_page{ text-align:center; padding-top:10px; }
+.newslist_table a:link,.newslist_table a:visited{ color: #000; text-decoration: none;}
+.newslist_table a:hover,.newslist_table a:active{ color: #369; text-decoration: underline;}
+/*新闻列表 end*/

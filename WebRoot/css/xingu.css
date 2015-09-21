@@ -1,0 +1,92 @@
+
+.Re_TabMain{padding:10px;height1%;border:1px #e0e0e0 solid;border-top:0;padding-bottom:35px;}
+.Re_TabMain div.left{ float:left;}
+.Re_TabMain div.right{ float:right;}
+.Re_TabMenu{border: 1px solid #CDCDCD;height:26px;padding: 0 5px 0 0;position: relative;text-align:left;background: url("http://i.ssimg.cn/images/stock/sub/B_img.gif") repeat-x;background-position: 0 -131px;}
+.Re_TabMenu ul{position: absolute;top: 0;left: 0;} 
+.Re_TabMenu li{border-right: 1px solid #CDCDCD;cursor: pointer;float: left;height: 26px;line-height: 26px;width:100px;text-align:center;cursor:pointer;color:#0E478C;}
+.Re_TabMenu .current_state{border-bottom: 1px solid #FFFFFF;font-weight: bold;line-height: 26px;background: url("http://i.ssimg.cn/images/stock/sub/B_img.gif") repeat-x;background-position: 0 -96px !important;}
+.Re_TabMenu .LeftTab{width:510px;float:left;height:26px;}
+.Re_TabMenu .TabSearch{float:right;height:26px;}
+.Re_TabMenu .TabSearch .tabinpt{width:112px;height:18px;border:1px #e0e0e0 solid;margin-top:3px;font-size:12px;width:100px;}
+.Re_TabMenu .TabSearch select{height:20px;margin-top:3px;font-size:12px;width:100px;}
+.Re_TabMenu .TabSearch .subtn{width:44px;height:21px;background:url(http://i.ssimg.cn/images/stock/extra_subtn.gif) no-repeat;cursor:pointer;}
+
+
+
+/*新加菜单*/
+ul.Extra_Menu{ margin-left:auto; margin-right:auto; margin-top:6px; margin-bottom:3px;}
+ul.Extra_Menu li{width:125px; height:26px; line-height:26px; background:url(http://i.ssimg.cn/images/stock/sub/B_img.gif); font-size:14px; font-weight:700;color:#00538e; text-decoration:none; text-align:center; float:left; margin-left:6px; border:1px solid #c5d1e5; display:block; background-position:0 -96px; cursor:pointer }
+ul.Extra_Menu li.current{ background-position:0 -131px}
+
+/*内容显示区域*/
+div.Extra_TBox{ }
+div.Extra_TBox a{ text-decoration:underline}
+div.Extra_TBox .s8{ height:8px; overflow:hidden}
+div.Extra_TBox h3{height:35px; line-height:35px; font-size:16px; font-weight:bold;color: #00538E; text-align:left; border:solid 1px #e0e0e0;  background-color:#fff; display:block; text-indent:1em; list-style:nones; background-image:none}
+
+div.Extra_TBox strong.title{height:35px; line-height:35px; font-size:16px; font-weight:bold;color: #00538E;background-image:none; text-indent:9px; display:inline-block; }
+div.Extra_TBox table{background-color:#e0e0e0; width:100%;}
+div.Extra_TBox table tr{  background-color:#FFF;}
+div.Extra_TBox table th{text-align:center; height:25px; line-height:25px; background-color:#F0F4F9; font-weight:normal}
+div.Extra_TBox table tr.nobr th{ white-space:nowrap}
+div.Extra_TBox table td{ padding:2px 5px; text-align:center; line-height:20px;}
+div.Extra_TBox table tr.td3{  background-color:#FFF;}
+div.Extra_TBox table tr.td4{  background-color:#F6F6F6;}
+div.Extra_TBox table td.lable{background-color:#F8F9FC; }
+div.Extra_TBox table td.left{ text-align:left}
+div.Extra_TBox table td.right{ text-align:right}
+div.Extra_TBox table tr.space td{ overflow:hidden; height:6px; background-color:#fff}
+div.Extra_TBox table td.nobr{ white-space:nowrap}
+
+/*详细页面搜索*/
+div.Extra_TBox div.search_box{ height:35px; line-height:35px;}
+div.Extra_TBox div.search_box .tabinpt{width:112px;height:18px;border:1px #e0e0e0 solid;margin-top:3px;font-size:12px;width:100px;}
+div.Extra_TBox div.search_box select{height:20px;margin-top:3px;font-size:12px;width:100px;}
+div.Extra_TBox div.search_box .subtn{width:44px;height:21px;background:url(http://i.ssimg.cn/images/stock/extra_subtn.gif) no-repeat;cursor:pointer;}
+
+
+
+
+div.Extra_PLeft{  float:left }
+div.Extra_PRight{ float:right; clear:right}
+
+/*分页样式*/
+div.Extra_Page{margin-left:auto; margin-right:auto; clear:both;}
+div.Extra_Page div.pager{ text-align:right; font-size:12px; float:right;margin-top:6px; margin-bottom:6px; }
+div.Extra_Page div.pager.right{ text-align:right; float:right}
+div.Extra_Page div.pager.left{ text-align:left; float:left}
+div.Extra_Page div.pager.r_mt0{ margin-top:0px;}
+div.Extra_Page div.pager.r_mb0{ margin-bottom:0px;}
+
+div.Extra_Page div.pager a{ border:1px solid #9DB2C5; text-decoration:none; display:block; float:left; margin-left:4px; padding:2px 8px 0px 8px; height:18px; line-height:18px;}
+div.Extra_Page div.pager a:link{color: #00298F; font-weight:normal}
+div.Extra_Page div.pager a:visited{color: #00298F; font-weight:normal}
+div.Extra_Page div.pager a:hover{border:1px solid navy; color: #FFF; font-weight:normal;background:#2E6AB1;}
+div.Extra_Page div.pager .curr { border:1px solid navy; background:#2E6AB1; font-weight:bold; color:#FFF;display:block; float:left; margin-left:4px; padding:2px 8px 0px 8px; height:18px; line-height:18px;}
+div.Extra_Page div.pager .tips { float:left; margin-left:4px; padding:2px 8px 0px 8px; height:18px; line-height:18px;}
+div.Extra_Page div.pager .disabled {cursor: default; border: 1px solid #CCC; background: white; color: #CCC; display:block; float:left; margin-left:4px; padding:2px 8px 0px 8px; height:18px; line-height:18px;}
+
+div.Extra_Page div.pager.left a,
+div.Extra_Page div.pager.left .curr,
+div.Extra_Page div.pager.left .tips,
+div.Extra_Page div.pager.left .disabled{ margin-left:0px; margin-right:4px; }
+
+div.Extra_Page div.pager.right a,
+div.Extra_Page div.pager.right .curr,
+div.Extra_Page div.pager.right .tips,
+div.Extra_Page div.pager.right .disabled{ margin-left:4px; margin-right:0px}
+
+
+
+/*研报数据专用样式*/
+tr.rptArticle{ background-color:#fff}
+tr.rptArticle td{ padding:6px 12px}
+tr.rptArticle td p{ line-height:24px;text-indent:24px; text-align:left}
+
+/*新股提示特别样式*/
+.lable_td{position:relative; width:1px; height:1px}
+.lable1,.lable2,.lable3,.lable4{position:absolute; background:url(http://i.ssimg.cn/images/stock/ipo_list_lable.gif) no-repeat 0 0; width:68px; height:40px; left: 9px; top: -56px;}
+.lable2{ background-position:-72px 0}
+.lable3{ background-position:0 -49px}
+.lable4{ background-position:-72px -49px}

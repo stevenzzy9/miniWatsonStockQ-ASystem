@@ -1,0 +1,6 @@
+个人简介	investor	introduction
+投资风格	investor	style
+名言	investor	saying
+重大事件	investor	event
+书籍	investor	books
+研究领域	investor	field

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/33/trunk/src/java/ruc/irm/similarity/util
+END
+XmlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14/trunk/src/java/ruc/irm/similarity/util/XmlException.java
+END
+F02-GB2312-to-PuTongHua-PinYin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/java/ruc/irm/similarity/util/F02-GB2312-to-PuTongHua-PinYin.txt
+END
+EditDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/java/ruc/irm/similarity/util/EditDistance.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/java/ruc/irm/similarity/util/FileUtils.java
+END
+XmlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/src/java/ruc/irm/similarity/util/XmlUtils.java
+END
+PinyinUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/src/java/ruc/irm/similarity/util/PinyinUtils.java
+END
+BlankUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/src/java/ruc/irm/similarity/util/BlankUtils.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/java/ruc/irm/similarity/util/MathUtils.java
+END
+About.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/src/java/ruc/irm/similarity/util/About.java
+END
+about.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/33/trunk/src/java/ruc/irm/similarity/util/about.html
+END
+TraverseEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/src/java/ruc/irm/similarity/util/TraverseEvent.java
+END

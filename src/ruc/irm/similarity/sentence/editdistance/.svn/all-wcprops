@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/43/trunk/src/java/ruc/irm/similarity/sentence/editdistance
+END
+EditDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/src/java/ruc/irm/similarity/sentence/editdistance/EditDistance.java
+END
+XiatianEditDistance2.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/43/trunk/src/java/ruc/irm/similarity/sentence/editdistance/XiatianEditDistance2.java
+END
+WordEditUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/43/trunk/src/java/ruc/irm/similarity/sentence/editdistance/WordEditUnit.java
+END
+StandardEditDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/src/java/ruc/irm/similarity/sentence/editdistance/StandardEditDistance.java
+END
+CharEditUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/java/ruc/irm/similarity/sentence/editdistance/CharEditUnit.java
+END
+EditUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5/trunk/src/java/ruc/irm/similarity/sentence/editdistance/EditUnit.java
+END
+SuperString.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/src/java/ruc/irm/similarity/sentence/editdistance/SuperString.java
+END
+GregorEditDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/src/java/ruc/irm/similarity/sentence/editdistance/GregorEditDistance.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/java/ruc/irm/similarity/sentence/editdistance/Block.java
+END
+Split.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/java/ruc/irm/similarity/sentence/editdistance/Split.java
+END
+XiatianEditDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/src/java/ruc/irm/similarity/sentence/editdistance/XiatianEditDistance.java
+END
+ChunkEditUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/java/ruc/irm/similarity/sentence/editdistance/ChunkEditUnit.java
+END

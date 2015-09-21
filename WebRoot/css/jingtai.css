@@ -1,0 +1,116 @@
+* { padding: 0; margin: 0; border: 0; }
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:active {text-decoration: none;}
+a:hover {text-decoration: none;}
+
+#logo{
+	background-image:url(../images/logo.png);
+	background-repeat:no-repeat;
+	width:850px;
+	height:214px;
+	margin-top:50px;
+	margin-bottom:10px;
+}
+#stay{
+	width:850px;
+	min-height:250px;
+	margin-top:50px;
+	margin-bottom:10px;
+}
+
+#footer{
+	clear:both;
+	font-size:0.85em;
+	margin-top:10px;
+	color:#999;
+}
+body{
+	background-color:#fff;
+}
+	
+.list{
+	float:left;
+	margin-left:40px;
+	list-style-type:none;
+}
+
+#change{
+	width:990px;
+	height:830px;
+}
+.T_logo{
+	background-color:#FFF;
+	height:70px;
+	width:100%;
+	background-image:url(../images/m_log.jpg);
+	background-repeat:no-repeat;
+	background-position:120px;
+}
+#tabs  > div{
+	min-height:500px;
+	width:990px;
+	position: absolute;
+	border:#ddd solid;
+	border-bottom-width:1px;
+	border-top-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	clear:both;
+	background-image:url(../images/bg.jpg);
+	background-repeat:no-repeat;
+}
+
+#nav{
+	width:990px;
+	height:40px;
+	background-image:url(../images/libg_home.png);
+	margin-top:10px;
+	text-align:center;
+	border:#ddd solid;
+	border-bottom-width:0px;
+	border-top-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	}	
+#nav a{
+	padding-top:10px;
+	color:#000;
+	float:left;
+	width:129px;
+	text-align: center;
+	height:30px;
+	font-size:14px;
+}
+#nav li{
+	float:left;
+	width:129px;
+	text-align: center;
+	margin-top: 0px;
+	border-right: 1px solid #FFF;
+	height:40px;
+}
+#nav a:hover{
+	color:#555;
+	background-color:#EEE;}
+.current{
+	background-image:url(../images/tab.png);
+	background-position:0px 0px -15px -15px;
+}
+#search{
+	min-height:560px;
+	}
+	
+.result{
+	width:990px;
+	margin-top:20px;
+	}
+	
+ p a{
+	 margin-left:10px;
+	 margin-right:10px;
+	 color:blue;
+	 }
+h2{
+	font-family:雅黑；
+}

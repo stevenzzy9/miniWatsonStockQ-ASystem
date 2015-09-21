@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<constant name="struts.custom.i18n.resources" value="globalMessages" />
+	<constant name="struts.i18n.encoding" value="utf-8" />
+
+
+	<package name="solid" extends="struts-default" namespace="">
+		<!--
+			<action name="answer" class="com.solid.action.GetAnswer"> <result
+			name="STRING">/answer_common.jsp</result> <result
+			name="INVESTROR">/investor.jsp</result> <result name="INCOME"
+			type="redirect">GetCompanyInfo?id=${id}&amp;tag=5&amp;question=${question}
+			</result> <result name="HISTORY"
+			type="redirect">GetCompanyInfo?id=${id}&amp;tag=4&amp;question=${question}
+			</result> <result name="FINANCE"
+			type="redirect">GetCompanyInfo?id=${id}&amp;tag=2&amp;question=${question}
+			</result> <result name="EXECUTIVE"
+			type="redirect">GetCompanyInfo?id=${id}&amp;tag=1&amp;question=${question}
+			</result> <result name="BONUS"
+			type="redirect">GetCompanyInfo?id=${id}&amp;tag=3&amp;question=${question}
+			</result> <result name="NULL">/result8.jsp</result> <result
+			name="failed">/failed.jsp</result> </action>
+		-->
+		<global-results>
+			<result name="failed">/failed.jsp</result>
+		</global-results>
+
+		<action name="answer" class="com.solid.action.GetAnswer">
+		<result name="failed">/failed.jsp</result>
+			<result name="concept" type="chain">
+				<param name="namespace">/answercate</param>
+				<param name="actionName">ConceptAction</param>
+			</result>
+			<result name="stock" type="chain">
+				<param name="namespace">/answercate</param>
+				<param name="actionName">StockAction</param>
+			</result>
+			<result name="person" type="chain">
+				<param name="namespace">/answercate</param>
+				<param name="actionName">PersonAction</param>
+			</result>
+			<result name="operation" type="chain">
+				<param name="namespace">/answercate</param>
+				<param name="actionName">OperationAction</param>
+			</result>
+		</action>
+
+		<action name="SearchNews" class="com.solid.action.SearchNews">
+			<result name="success" type="redirect">GetCompanyInfo?id=${id}&amp;tag=6
+			</result>
+			<result name="failed">/failed.jsp</result>
+		</action>
+
+		<action name="ScanNewShare" class="com.solid.action.ScanNewShare">
+			<result name="success">/new_stock.jsp</result>
+			<result name="error">/share_failed.jsp</result>
+			<result name="failed">/failed.jsp</result>
+		</action>
+
+		<action name="GetCompanys" class="com.solid.action.GetCompanys">
+			<result name="success">/select_company.jsp</result>
+			<result name="failed">/failed.jsp</result>
+		</action>
+
+		<action name="GetCompanyInfo" class="com.solid.action.GetCompanyInfo">
+			<result name="success">/company_info.jsp</result>
+			<result name="failed">/failed.jsp</result>
+		</action>
+
+		<action name="baike" class="com.solid.action.GetBaike">
+			<result name="success">/baike.jsp</result>
+			<result name="failed">/failed.jsp</result>
+		</action>
+
+		<action name="investor" class="com.solid.action.GetInvestor">
+			<result name="success">/investor.jsp</result>
+			<result name="failed">/failed.jsp</result>
+		</action>
+
+
+		<!-- google results 结果 -->
+		<action name="GetGooResult" class="com.solid.action.GetGooResult">
+			<result name="success">/answers/google_result.jsp</result>
+			<result name="failed">/failed.jsp</result>
+		</action>
+
+	</package>
+
+	<!-- 此package为问题答案的处理类 -->
+	<package name="answercate" extends="struts-default" namespace="/answercate">
+		<global-results>
+			<result name="failed">/failed.jsp</result>
+		</global-results>
+
+		<action name="ConceptAction" class="com.solid.action.answer.ConceptAction">
+			<result name="answer">/answers/concept_answer.jsp</result>
+			<result name="null">/answers/concept_null.jsp</result>
+		</action>
+		<action name="StockAction" class="com.solid.action.answer.StockAction">
+			<result name="answer">/answers/stockinfo_answer.jsp</result>
+			<result name="table">/answers/stockinfo_table.jsp</result>
+			<result name="null">/answers/stockinfo_null.jsp</result>
+		</action>
+		<action name="PersonAction" class="com.solid.action.answer.PersonAction">
+			<result name="answer">/answers/personinfo_answer.jsp</result>
+			<result name="null">/answers/personinfo_null.jsp</result>
+		</action>
+		<action name="OperationAction" class="com.solid.action.answer.OperationAction">
+			<result name="answer">/answers/operation_answer.jsp</result>
+			<result name="null">/answers/operation_null.jsp</result>
+		</action>
+
+	</package>
+
+</struts>

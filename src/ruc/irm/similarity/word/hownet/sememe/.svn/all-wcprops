@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/44/trunk/src/java/ruc/irm/similarity/word/hownet2/sememe
+END
+BaseSememeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/31/trunk/src/java/ruc/irm/similarity/word/hownet2/sememe/BaseSememeParser.java
+END
+LiuqunSememeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/src/java/ruc/irm/similarity/word/hownet2/sememe/LiuqunSememeParser.java
+END
+sememe.xml.gz
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/src/java/ruc/irm/similarity/word/hownet2/sememe/sememe.xml.gz
+END
+XiaSememeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/35/trunk/src/java/ruc/irm/similarity/word/hownet2/sememe/XiaSememeParser.java
+END
+Sememe.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/src/java/ruc/irm/similarity/word/hownet2/sememe/Sememe.java
+END
+SememeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/src/java/ruc/irm/similarity/word/hownet2/sememe/SememeType.java
+END

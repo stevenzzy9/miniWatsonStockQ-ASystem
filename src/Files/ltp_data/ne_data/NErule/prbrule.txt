@@ -1,0 +1,3570 @@
+nh i n #0.000131986 *3
+nh n #0.000754205 *1
+nh n #0.00084848 *3
+nh n #0.00120673 *2
+nh n n #0.000245117 *3
+nh n n #0.000452523 *1
+nh n n #0.000565654 *2
+nh n n n #7.54205e-005 *2
+nh nh n #0.000791915 *1
+nh nh n #0.000791915 *3
+nh nh n #0.000829625 *2
+nh nh n l #0.000263972 *2
+nh nh n n #0.000113131 *3
+nh nh n n #0.000150841 *1
+nh nh n n #0.000961611 *2
+nh nh n n n #9.42756e-005 *2
+nh nh nh nh n #0.000263972 *1
+nh nh v n #0.000113131 *2
+nh nh wp nh nh n n #7.54205e-005 *2
+nh v n #0.000263972 *2
+ni a #1 *2
+ni a a a a n #1 *2
+ni a a a m n v n #1 *2
+ni a c b n n n v n #1 *2
+ni a n #0.000169696 *2
+ni a n #1 *2
+ni a n v c v q #1 *2
+ni a ni #1 *2
+ni a ni n #1 *2
+ni a nz n #1 *2
+ni a v n #1 *2
+ni a v ni #1 *2
+ni b n #1 *2
+ni b n #7.54205e-005 *2
+ni b n n #1 *2
+ni b n ni #1 *2
+ni b n v n #1 *2
+ni b n v v n #1 *2
+ni b ni #1 *2
+ni b q #1 *2
+ni b v q #1 *2
+ni d a n n #1 *1
+ni d ni #1 *2
+ni d ni n n v n #1 *2
+ni d ni nz n b n #1 *2
+ni d v n #1 *2
+ni i j #9.42756e-005 *2
+ni i n #1 *2
+ni i n #9.42756e-005 *2
+ni i n ni #1 *2
+ni i n v ni #1 *2
+ni i ni #1 *2
+ni j #0.00854137 *2
+ni j #1 *2
+ni j a n v n #1 *2
+ni j a v #1 *2
+ni j j #1 *2
+ni j j n n c n v n #1 *2
+ni j j ni #1 *2
+ni j n #0.00143299 *2
+ni j n #1 *2
+ni j n n #0.000150841 *2
+ni j n n #1 *2
+ni j n n n ni #1 *2
+ni j n ni #1 *2
+ni j n v #1 *2
+ni j n v n #1 *2
+ni j ni #1 *2
+ni j ns v ni #1 *2
+ni j v #1 *2
+ni j v n #1 *2
+ni j v ni #1 *2
+ni j v ni nd n ni #1 *2
+ni j v v ni #1 *2
+ni m m n #1 *2
+ni m m n m n #1 *2
+ni m m n m n m q #1 *2
+ni m m n m n ni #1 *2
+ni m m n m q n #1 *2
+ni m m n ni #1 *2
+ni m m ni #1 *2
+ni m n #0.000226261 *2
+ni m n #1 *2
+ni m n m n #0.000150841 *2
+ni m n m n #1 *2
+ni m n m n m q #1 *2
+ni m n m n m q ni v n #1 *2
+ni m n m ni #1 *2
+ni m n m ni ni n #1 *2
+ni m n n #5.65654e-005 *2
+ni m n ni #1 *2
+ni m n ni ni #1 *2
+ni m n q #1 *2
+ni m n q d #1 *2
+ni m n q j #1 *2
+ni m n q m n n #1 *2
+ni m n q n n #1 *2
+ni m n q ni #1 *2
+ni m ni #1 *2
+ni m ni m ni m v n #1 *2
+ni m ni m ni ni #1 *2
+ni m ni m q ni #1 *2
+ni m ni n n v n #1 *2
+ni m ni ni #1 *2
+ni m q #1 *2
+ni m q d #1 *2
+ni m q j #1 *2
+ni m q m q #1 *2
+ni m q m q g n n #1 *2
+ni m q ni #1 *2
+ni n #0.000113131 *1
+ni n #0.021212 *2
+ni n #0.972222 *2
+ni n a d ni #1 *2
+ni n a v #1 *2
+ni n a v v n #1 *2
+ni n b ni #1 *2
+ni n b q #1 *2
+ni n c n n #9.42756e-005 *2
+ni n c n n ni #1 *2
+ni n c n n v #1 *2
+ni n c n ni #1 *2
+ni n c n v #1 *2
+ni n c n v n #1 *2
+ni n c v n #1 *2
+ni n d ni #1 *2
+ni n d ni nd n n #1 *2
+ni n j #0.000113131 *2
+ni n j #1 *2
+ni n n #0.00469492 *2
+ni n n #0.964912 *2
+ni n n a a a a #1 *2
+ni n n a l #5.65654e-005 *2
+ni n n c n n #1 *2
+ni n n c n v n #1 *2
+ni n n g n n n #1 *1
+ni n n n #0.000754205 *2
+ni n n n #1 *2
+ni n n n n #0.000169696 *2
+ni n n n n #1 *2
+ni n n n n v v v n #1 *2
+ni n n n ni #1 *2
+ni n n n p b n n n n ni #1 *2
+ni n n n v #1 *2
+ni n n ni #1 *2
+ni n n ni nz #1 *2
+ni n n nz ni #1 *2
+ni n n q #1 *2
+ni n n q nd j ni #1 *2
+ni n n v #1 *2
+ni n n v n #0.000282827 *2
+ni n n v n #1 *2
+ni n n v n ni #1 *2
+ni n n v ni #1 *2
+ni n n v ni ni v n #1 *2
+ni n nh c n ni #1 *2
+ni n nh ni #1 *2
+ni n ni #1 *2
+ni n ni n #1 *2
+ni n ni nh v n #1 *2
+ni n ni ni #1 *2
+ni n ni ns ni #1 *2
+ni n ni v ni #1 *2
+ni n nz ni #1 *2
+ni n nz v #1 *2
+ni n q #1 *2
+ni n u #1 *2
+ni n v #1 *2
+ni n v a n #5.65654e-005 *2
+ni n v d ni #1 *2
+ni n v n #0.000641074 *2
+ni n v n #1 *2
+ni n v n n #1 *2
+ni n v n ni #1 *2
+ni n v n ni j ni #1 *2
+ni n v ni #1 *2
+ni n v ni n a j n #1 *2
+ni n v q #1 *2
+ni n v u #1 *2
+ni n v v #1 *2
+ni n v v n #1 *2
+ni n v v n #9.42756e-005 *2
+ni n v v n ni #1 *2
+ni n v v ni #1 *2
+ni n v v u #1 *2
+ni n v v v ni #1 *2
+ni nd a n n ni ni #1 *2
+ni nd n v #1 *2
+ni nd ni #1 *2
+ni nd q #1 *2
+ni nd q n v j n #1 *2
+ni nd v ni #1 *2
+ni nd v v #1 *2
+ni nh #0.5 *1
+ni nh #0.5 *2
+ni nh n n ni #1 *2
+ni nh v v #1 *2
+ni ni #0.00113131 *2
+ni ni #0.96875 *2
+ni ni b b ni #1 *2
+ni ni j n ni #1 *2
+ni ni j ni #1 *2
+ni ni j q #1 *2
+ni ni n #1 *2
+ni ni n n #1 *2
+ni ni n n nh v n #1 *2
+ni ni n n v #1 *2
+ni ni n ni #1 *2
+ni ni n v #1 *2
+ni ni n v v n #1 *2
+ni ni nd n v #1 *2
+ni ni ni #1 *2
+ni ni ni n nh #1 *2
+ni ni ns n #1 *2
+ni ni ns n n ni #1 *2
+ni ni nz n #1 *2
+ni ni nz q #1 *2
+ni ni nz v #1 *2
+ni ni p n ni m ni m ni #1 *2
+ni ni q #1 *2
+ni ni q n v #1 *2
+ni ni v n #1 *2
+ni ni v ni #1 *2
+ni ni v ni m n #1 *2
+ni ni v nz v v ni #1 *2
+ni ni v q #1 *2
+ni ni v v v #1 *2
+ni nl n #1 *2
+ni nl ni #1 *2
+ni nl ni v v n #1 *2
+ni nl q #1 *2
+ni ns #1 *1
+ni ns a nh ni #1 *2
+ni ns b v ni #1 *2
+ni ns c ns n n ni #1 *2
+ni ns c ns n ni #1 *2
+ni ns j #1 *2
+ni ns m n #1 *2
+ni ns n #0.00143299 *2
+ni ns n #0.111111 *1
+ni ns n #0.888889 *2
+ni ns n c n ni #1 *2
+ni ns n n #0.000471378 *2
+ni ns n n #1 *2
+ni ns n n n #7.54205e-005 *2
+ni ns n n ni #1 *2
+ni ns n n ni n ni #1 *2
+ni ns n n ni n v n n v n #1 *2
+ni ns n n u #1 *2
+ni ns n n v #1 *2
+ni ns n n v n #1 *2
+ni ns n n v n #7.54205e-005 *2
+ni ns n n v ni #1 *2
+ni ns n ni #1 *2
+ni ns n ni ni #1 *2
+ni ns n u #1 *2
+ni ns n v n #0.000169696 *2
+ni ns n v n #1 *2
+ni ns n v ni #1 *2
+ni ns n v q #1 *2
+ni ns n v u #1 *2
+ni ns nh n #1 *2
+ni ns ni #1 *2
+ni ns ni j #1 *2
+ni ns ni n #1 *2
+ni ns ni n n #1 *2
+ni ns ni n n n v n #1 *2
+ni ns ni n n v nh #1 *2
+ni ns ni n nh #1 *2
+ni ns ni n ni #1 *2
+ni ns ni n v n #1 *2
+ni ns ni ns ni #1 *2
+ni ns ni ns ni n nh #1 *2
+ni ns ni nz n ni #1 *2
+ni ns ns n #1 *2
+ni ns ns n n ni #1 *2
+ni ns ns n ni #1 *2
+ni ns ns ni #1 *2
+ni ns ns u #1 *2
+ni ns ns v #1 *2
+ni ns nt n ni #1 *2
+ni ns nt n u #1 *2
+ni ns nz ni #1 *2
+ni ns nz q #1 *2
+ni ns p ns n ni #1 *2
+ni ns v #1 *2
+ni ns v n #0.000169696 *2
+ni ns v n #1 *2
+ni ns v n u #1 *2
+ni ns v ni #1 *2
+ni ns v u #1 *2
+ni ns v v #1 *2
+ni ns v v n #1 *2
+ni nt n c n ni #1 *2
+ni nt ns v n #1 *2
+ni nt v n #1 *2
+ni nz #0.916667 *2
+ni nz n #1 *2
+ni nz n a ni #1 *2
+ni nz n a nz n #1 *2
+ni nz n a nz ni #1 *2
+ni nz n c n ni #1 *1
+ni nz n n #1 *2
+ni nz n n v #1 *2
+ni nz n ni #1 *2
+ni nz ni #1 *2
+ni nz ni b ni #1 *2
+ni nz nz ni #1 *2
+ni nz nz v ni #1 *2
+ni nz nz v v ni ni #1 *2
+ni nz u #1 *2
+ni nz v j nz v n #1 *2
+ni nz v n #0.5 *1
+ni nz v n #0.5 *2
+ni nz v n #5.65654e-005 *2
+ni nz v n v ni #1 *2
+ni nz v ni #1 *2
+ni nz v v ni #1 *2
+ni p ni n n #1 *2
+ni q #1 *2
+ni v #1 *2
+ni v d ni #1 *2
+ni v j #1 *2
+ni v j #7.54205e-005 *2
+ni v j n n #0.000263972 *2
+ni v j ni #1 *2
+ni v n #0.000490233 *2
+ni v n #1 *2
+ni v n j v q #1 *2
+ni v n n n n #1 *2
+ni v n n v ni #1 *2
+ni v n ni #0.5 *1
+ni v n ni #0.5 *2
+ni v n nz n #1 *2
+ni v n q #1 *2
+ni v n u #1 *2
+ni v n v n #1 *2
+ni v n v ni ni #1 *2
+ni v ni #1 *2
+ni v ni n n ni #1 *2
+ni v ni n n ni ni #1 *2
+ni v ni n ni #1 *2
+ni v ns b n n d ni #1 *2
+ni v ns n #1 *2
+ni v ns n wp n c n a n #0.000188551 *2
+ni v ns n wp n c n d ni #1 *2
+ni v ns ni #1 *2
+ni v ns ni n nh #1 *2
+ni v ns ns nz ni #1 *2
+ni v ns nz n #1 *2
+ni v ns nz nz n #1 *2
+ni v ns nz q #1 *2
+ni v nz #1 *2
+ni v q #1 *2
+ni v q ni ni #1 *2
+ni v q nt n ni #1 *2
+ni v u #1 *2
+ni v u n v n n #1 *2
+ni v v #1 *2
+ni v v n #0.000188551 *2
+ni v v n #0.000358247 *2
+ni v v n #1 *2
+ni v v ni #1 *2
+ni v v ns b n n d ni #1 *2
+ni v v ns b n n j #1 *2
+ni v v q #1 *2
+ni v v v #1 *2
+ni v v v n #0.000245117 *2
+ni v v v n #1 *2
+ni v v v ni #1 *2
+ni v v v ni ni #1 *2
+ni v v v nz v n #1 *2
+ni wp ni v n n n #1 *2
+ni wp ni wp a n ni #1 *2
+ns a #0.454545 *1
+ns a #0.545455 *2
+ns a a a #1 *2
+ns a a a a a n ni #1 *2
+ns a a a a a ni #1 *2
+ns a a a a n ni #1 *2
+ns a a a a v n ni #1 *2
+ns a a a a wp g nh wp ni #1 *2
+ns a a a b ni #1 *2
+ns a a a j n #1 *2
+ns a a a j ni j v ni #1 *2
+ns a a a n #1 *2
+ns a a a n n #1 *2
+ns a a a n n ni #1 *2
+ns a a a n ni #1 *2
+ns a a a n ns ni #1 *2
+ns a a a ni #1 *2
+ns a a a nz a v n ni #1 *2
+ns a a a nz nz #1 *2
+ns a a a v ni #1 *2
+ns a a a wp a a a a a a ni #1 *2
+ns a a g ni #1 *2
+ns a a n a n ni #1 *2
+ns a a n n #1 *2
+ns a a n n ni #1 *2
+ns a a n ni #1 *2
+ns a a n v ni #1 *2
+ns a a nh r ni #1 *2
+ns a a ni #1 *2
+ns a a v n #1 *2
+ns a a v ni #1 *2
+ns a b n ni #1 *2
+ns a c ni #1 *2
+ns a c ni ns ni #1 *2
+ns a c v n #0.000131986 *2
+ns a c v n #1 *2
+ns a c v v #1 *2
+ns a d ni #1 *1
+ns a g #1 *1
+ns a g n #1 *2
+ns a g ni ni n #1 *2
+ns a j #0.25 *1
+ns a j #0.75 *2
+ns a j n ni #1 *2
+ns a j ni #1 *2
+ns a k n ni #1 *2
+ns a k v nz v n #1 *2
+ns a k v v ni #1 *2
+ns a l #0.000395957 *2
+ns a m a n ni #1 *1
+ns a m a ni #1 *2
+ns a m a v ni #1 *2
+ns a m ns n n ni ni #1 *2
+ns a m q n v ni #1 *2
+ns a n #0.00154612 *2
+ns a n #0.00454408 *1
+ns a n #0.493976 *2
+ns a n #0.506024 *1
+ns a n a n ni #1 *2
+ns a n a ni #1 *2
+ns a n b n #5.65654e-005 *2
+ns a n b ni #1 *2
+ns a n c n ni #1 *2
+ns a n c r n ni #1 *2
+ns a n c v ni #1 *2
+ns a n d #1 *2
+ns a n j #0.000301682 *2
+ns a n j ni #1 *2
+ns a n n #0.00107474 *2
+ns a n n #0.2 *1
+ns a n n #0.8 *2
+ns a n n #9.42756e-005 *3
+ns a n n a n ni #1 *2
+ns a n n a n v ni #1 *2
+ns a n n a ni #1 *2
+ns a n n b n ni #1 *2
+ns a n n k wp ni wp n ni #1 *2
+ns a n n n #0.000207406 *2
+ns a n n n #1 *2
+ns a n n n n #1 *2
+ns a n n n ni #1 *2
+ns a n n n v n #1 *2
+ns a n n n v v n #1 *2
+ns a n n ni #0.928571 *2
+ns a n n ni ns n #1 *2
+ns a n n v n #0.000113131 *2
+ns a n n v n #0.166667 *2
+ns a n n v n #0.833333 *1
+ns a n n v n #9.42756e-005 *1
+ns a n n v n ni #1 *2
+ns a n n v ni #1 *2
+ns a n n v v ni #1 *2
+ns a n n v v nz #1 *1
+ns a n nh #1 *2
+ns a n ni #0.914286 *2
+ns a n ni c n ni #1 *2
+ns a n ni m n #1 *2
+ns a n ni n n #1 *1
+ns a n ni n ni #1 *2
+ns a n ni ns ni #1 *2
+ns a n ni ns ni n n n #1 *2
+ns a n ns #1 *1
+ns a n nz #1 *1
+ns a n nz ni #0.2 *1
+ns a n nz ni #0.8 *2
+ns a n v n #0.000471378 *2
+ns a n v n #1 *2
+ns a n v n #7.54205e-005 *1
+ns a n v n m ni #1 *2
+ns a n v ni #0.1875 *1
+ns a n v ni #0.8125 *2
+ns a n v ni n ni #1 *2
+ns a n v v #1 *2
+ns a n v v n #1 *2
+ns a nd #1 *1
+ns a nd a n ni ns ni #1 *2
+ns a nd ni ni #1 *2
+ns a nd p ni #1 *2
+ns a nd v v ni #1 *2
+ns a nh #0.5 *1
+ns a nh #0.5 *2
+ns a nh a ni #1 *2
+ns a nh n #1 *2
+ns a nh n ni #1 *2
+ns a nh ni #1 *2
+ns a nh ni n ni #1 *2
+ns a ni #0.152941 *1
+ns a ni #0.847059 *2
+ns a ni n #1 *2
+ns a ni n n #1 *1
+ns a ni nz ni #1 *2
+ns a ns #1 *1
+ns a ns n #0.333333 *1
+ns a ns n #0.666667 *2
+ns a ns nh n ni #1 *2
+ns a ns ni #1 *2
+ns a ns ni ni #1 *2
+ns a ns nz #1 *1
+ns a ns v #1 *1
+ns a ns v ni #1 *2
+ns a nt n ni n v #1 *2
+ns a nz #0.961538 *1
+ns a nz a n #1 *2
+ns a nz a n ni #1 *2
+ns a nz a ni #1 *2
+ns a nz m q ni #1 *2
+ns a nz n #0.333333 *2
+ns a nz n #0.666667 *1
+ns a nz n a #1 *2
+ns a nz n n ni #1 *2
+ns a nz nh n nz ni #1 *2
+ns a nz ni #1 *2
+ns a nz ni n ni #1 *2
+ns a nz nz m n ni #1 *2
+ns a nz nz n #1 *2
+ns a nz nz n nz #1 *1
+ns a q #1 *2
+ns a q a n n n ni #1 *2
+ns a q j ni #1 *2
+ns a q n ni #1 *2
+ns a q nh #1 *1
+ns a q ni #1 *2
+ns a q v n #1 *1
+ns a u nh n ni #1 *2
+ns a v #1 *1
+ns a v j n v #1 *2
+ns a v k ni #1 *2
+ns a v m nh #1 *1
+ns a v n #1 *2
+ns a v n #9.42756e-005 *2
+ns a v n n ni #1 *2
+ns a v n ni #1 *2
+ns a v n ni a #1 *2
+ns a v n v ni #1 *2
+ns a v ni #0.916667 *2
+ns a v ni i ni #1 *2
+ns a v ni ns n ni #1 *2
+ns a v ns n v #1 *2
+ns a v nz n #1 *2
+ns a v nz ni #1 *2
+ns a v q #1 *2
+ns a v u #1 *2
+ns a v v #1 *2
+ns a v v ni #1 *2
+ns a v v u #1 *2
+ns a v v v n #1 *2
+ns a wp a a a a ni #1 *2
+ns a wp nh wp nz #1 *1
+ns a wp ni wp ni #1 *2
+ns a x m ns ni #1 *2
+ns b #1 *1
+ns b a n n #5.65654e-005 *2
+ns b a n ni #1 *2
+ns b b n ni #1 *1
+ns b b n v nz n #1 *2
+ns b b ni #1 *2
+ns b b ns #1 *2
+ns b j #1 *2
+ns b l #0.000678784 *2
+ns b m a #1 *2
+ns b m ni #1 *2
+ns b m q v ni #1 *2
+ns b n #0.000245117 *1
+ns b n #0.0016404 *2
+ns b n #0.227273 *1
+ns b n #0.772727 *2
+ns b n a n #1 *2
+ns b n n #0.00073535 *2
+ns b n n #0.125 *1
+ns b n n #0.875 *2
+ns b n n n #0.000188551 *2
+ns b n n n #0.5 *1
+ns b n n n #0.5 *2
+ns b n n n ni #1 *2
+ns b n n ni #1 *2
+ns b n n v n #1 *2
+ns b n n v v n #1 *2
+ns b n ni #1 *2
+ns b n ni nd n ni #1 *2
+ns b n ni v v n ni #1 *2
+ns b n ns ni #1 *2
+ns b n nz #1 *1
+ns b n nz b q #1 *2
+ns b n nz n #1 *2
+ns b n nz ni #1 *2
+ns b n nz q #1 *2
+ns b n v #1 *2
+ns b n v n #0.000245117 *2
+ns b n v n #1 *2
+ns b n v n ni #1 *2
+ns b n v ni #1 *2
+ns b nd #1 *2
+ns b ni #0.933735 *2
+ns b ni b n v #1 *2
+ns b ni m m ni #1 *2
+ns b ni n #1 *2
+ns b ni n ni #1 *2
+ns b ni n v n #1 *2
+ns b ni ni #1 *2
+ns b ni nz #1 *2
+ns b ni v v nz ni #1 *2
+ns b ns n #1 *2
+ns b ns n n v n #1 *2
+ns b nz n #1 *2
+ns b nz ni #1 *2
+ns b q #1 *2
+ns b v #1 *2
+ns b v n #0.000226261 *2
+ns b v n #1 *1
+ns b v ni #1 *2
+ns b v ni v ni #1 *2
+ns b v nz v v v n #1 *2
+ns b v v #1 *2
+ns b v wp ni wp ni #1 *2
+ns b wp ni wp ni #1 *2
+ns c n n #1 *1
+ns c n nz #1 *1
+ns c ns #1 *1
+ns c ns a ni #1 *2
+ns c ns n #1 *1
+ns c ns nz j r ni #1 *2
+ns c v #1 *2
+ns d #1 *1
+ns d a n ni #1 *2
+ns d a ni #1 *2
+ns d a q #1 *2
+ns d c n #1 *2
+ns d d b n n ni #1 *2
+ns d j n ni #1 *2
+ns d m n nh n n #1 *1
+ns d m q ni #1 *2
+ns d n n n ni #1 *1
+ns d n nh ni #1 *2
+ns d n ni ns n ni #1 *2
+ns d nh n #1 *2
+ns d ni #0.985507 *1
+ns d ni b n #1 *2
+ns d ni b ni #1 *2
+ns d ni m q n #1 *2
+ns d ni n #1 *2
+ns d ni n ni #1 *2
+ns d ni n v ni #1 *2
+ns d ni ni #1 *2
+ns d ni ni n #1 *2
+ns d ni ni n ns ni #1 *2
+ns d ni ni v v ni #1 *2
+ns d ni nz ni #1 *2
+ns d ni q #1 *2
+ns d ni v nh #1 *2
+ns d ni v ni #1 *2
+ns d ni v ni j #1 *2
+ns d ni v ni n ni #1 *2
+ns d ni v ni v v ni #1 *2
+ns d ni v v ni #1 *2
+ns d nz #1 *1
+ns d p m v ni #1 *2
+ns d p nh n #1 *1
+ns d p nz #1 *1
+ns d q #1 *1
+ns d q a n m d #1 *2
+ns d v #1 *1
+ns d v n ni #1 *2
+ns d v n v ni #1 *2
+ns d v ni #1 *2
+ns d v ni m nz ni #1 *2
+ns d v ni ns n #1 *2
+ns d v nz ni #1 *2
+ns d v v n #1 *2
+ns g a n #1 *1
+ns g a n ni #1 *2
+ns g a v a ni #1 *2
+ns g d a n n ni #1 *2
+ns g d n v n #1 *2
+ns g d v ni #1 *2
+ns g g #1 *2
+ns g g n v n #1 *2
+ns g j #1 *1
+ns g j n #1 *2
+ns g k a n ni #1 *2
+ns g n #1 *1
+ns g n n #1 *1
+ns g n n n ni #1 *2
+ns g n n ni #1 *2
+ns g n n v ni #1 *2
+ns g n ni #1 *2
+ns g n v a n ni #1 *2
+ns g n v n ni #1 *2
+ns g n v ni #1 *2
+ns g nh #1 *2
+ns g nh n #1 *2
+ns g nh n n ni #1 *2
+ns g nh ni n #1 *2
+ns g nh ni ni #1 *2
+ns g nh ni v ni #1 *2
+ns g ns #1 *1
+ns g ns ni #1 *2
+ns g ns ns v ni #1 *2
+ns g q n #1 *1
+ns g u n n ni #1 *2
+ns g v #0.333333 *1
+ns g v #0.666667 *2
+ns g v n n #1 *2
+ns g v n n v n #1 *2
+ns g v n ni #1 *2
+ns g v n v ni #1 *2
+ns g v ni #1 *2
+ns i #0.25 *2
+ns i #0.75 *1
+ns i n #0.00113131 *2
+ns i n #1 *2
+ns i n #7.54205e-005 *3
+ns i n n #0.000339392 *2
+ns i n n #1 *2
+ns i ni #0.933333 *2
+ns i ni ni #1 *2
+ns i v #1 *2
+ns i v n #0.000150841 *2
+ns i v n #1 *2
+ns i v ni #1 *2
+ns j #0.000245117 *3
+ns j #0.0281884 *2
+ns j #0.998203 *2
+ns j a #1 *2
+ns j a a a v v n #1 *2
+ns j a a n ni #1 *2
+ns j a n #1 *2
+ns j a n n ni #1 *2
+ns j a n n v ni n ni #1 *2
+ns j a n v n #1 *2
+ns j a nh n ni #1 *2
+ns j a ni #1 *2
+ns j a ni n ni #1 *2
+ns j b n #7.54205e-005 *2
+ns j b n ni #1 *1
+ns j b ni #1 *2
+ns j d #1 *2
+ns j d a a n #1 *2
+ns j d v n n ni #1 *2
+ns j g a ns v #1 *2
+ns j g j n #1 *1
+ns j g n #1 *1
+ns j g n v ni #1 *2
+ns j g ni #1 *2
+ns j h ni #1 *2
+ns j i ni #1 *2
+ns j j #0.00145184 *2
+ns j j #1 *2
+ns j j a n #7.54205e-005 *2
+ns j j a ni #1 *2
+ns j j j #1 *2
+ns j j j b n ni #1 *2
+ns j j j ni #1 *2
+ns j j n #0.000131986 *2
+ns j j n #1 *2
+ns j j n a v n v #1 *2
+ns j j n m ni #1 *2
+ns j j n m ni n #1 *2
+ns j j n n n ni #1 *2
+ns j j n n v v n #1 *2
+ns j j n ni #1 *2
+ns j j n ni ni #1 *2
+ns j j n v n #1 *2
+ns j j n v ni #1 *2
+ns j j nh ni n a n nh #1 *2
+ns j j ni #1 *2
+ns j j nz n #1 *2
+ns j j v #1 *2
+ns j j v ni #1 *2
+ns j m a ni #1 *2
+ns j m n #0.000546798 *2
+ns j m n #1 *2
+ns j m n m q #1 *2
+ns j m ni #1 *2
+ns j m ni m m v ni #1 *2
+ns j m ni v n n #1 *2
+ns j m q #1 *1
+ns j m q m q ni #1 *2
+ns j m v ni #1 *2
+ns j n #0.000339392 *1
+ns j n #0.00443095 *2
+ns j n #0.136364 *1
+ns j n #0.863636 *2
+ns j n c n n ni #1 *2
+ns j n c n ni #1 *2
+ns j n j ni #1 *2
+ns j n n #0.00111245 *2
+ns j n n #0.111111 *1
+ns j n n #0.888889 *2
+ns j n n c n ni #1 *2
+ns j n n n #0.000301682 *2
+ns j n n n #0.5 *1
+ns j n n n #0.5 *2
+ns j n n n a n ni #1 *2
+ns j n n n n #9.42756e-005 *2
+ns j n n n v #1 *2
+ns j n n ni #1 *2
+ns j n n ni n n n v v #1 *2
+ns j n n nz ni #1 *2
+ns j n n v n #5.65654e-005 *2
+ns j n n v ni #1 *2
+ns j n n wp ni wp ni #1 *2
+ns j n ni #0.925926 *2
+ns j n ni a n ni #1 *2
+ns j n ni n ni #1 *2
+ns j n ni ns n n #1 *2
+ns j n ni q #1 *2
+ns j n u #1 *2
+ns j n u ns n #1 *2
+ns j n v #0.428571 *1
+ns j n v #0.571429 *2
+ns j n v n #0.000150841 *2
+ns j n v n #1 *2
+ns j n v n ni #1 *2
+ns j n v ni #1 *2
+ns j n wp v wp ni #1 *2
+ns j nd #1 *1
+ns j nd n #1 *2
+ns j nd n n nz #1 *1
+ns j nd ni #1 *2
+ns j nd nz ni #1 *1
+ns j nd v n ni #1 *2
+ns j nh #1 *1
+ns j nh b n #1 *2
+ns j nh n ni #1 *2
+ns j nh n ni ni #1 *2
+ns j nh v #1 *2
+ns j ni #0.946602 *2
+ns j ni a n ni #1 *2
+ns j ni m v ni #1 *2
+ns j ni n #1 *2
+ns j ni n n #1 *2
+ns j ni n ni #1 *2
+ns j ni n v #1 *2
+ns j ni nh n #1 *2
+ns j ni ni #1 *2
+ns j ni ns ni #1 *1
+ns j nl #1 *1
+ns j ns #0.333333 *2
+ns j ns #0.666667 *1
+ns j ns a n n n n #1 *2
+ns j ns j v ni #1 *2
+ns j ns n #1 *1
+ns j ns n #7.54205e-005 *2
+ns j ns n ni #1 *2
+ns j ns ni #1 *2
+ns j ns v n ni #1 *2
+ns j ns v ni #1 *2
+ns j nz #1 *1
+ns j nz n ni #1 *2
+ns j nz n nz #1 *1
+ns j nz ni #1 *2
+ns j nz ns nz #1 *1
+ns j nz nz #1 *1
+ns j nz v #1 *2
+ns j nz v n n #1 *2
+ns j nz v ni #1 *2
+ns j q #1 *2
+ns j q j n v ni #1 *2
+ns j q m n ni #1 *2
+ns j q m q #1 *2
+ns j q n ni #1 *2
+ns j u ni #1 *2
+ns j u r ni #1 *2
+ns j v #1 *2
+ns j v a n #1 *2
+ns j v a n ni #1 *2
+ns j v n #0.000452523 *2
+ns j v n #0.285714 *1
+ns j v n #0.714286 *2
+ns j v n #5.65654e-005 *1
+ns j v n a n ni #1 *2
+ns j v n j ni #1 *2
+ns j v n n #5.65654e-005 *2
+ns j v n n n ni #1 *2
+ns j v n ni #1 *2
+ns j v n ni ni #1 *2
+ns j v n v ni #1 *2
+ns j v nh #1 *2
+ns j v ni #0.210526 *1
+ns j v ni #0.789474 *2
+ns j v ns ns #1 *1
+ns j v nz ni #1 *2
+ns j v q #1 *2
+ns j v v n #1 *2
+ns j v v n #7.54205e-005 *2
+ns j v v n n n #1 *1
+ns j v v n n n n ni #1 *2
+ns j v v ni #1 *2
+ns j v v q #1 *2
+ns j wp a n wp n q #1 *2
+ns j wp ni wp ni #1 *2
+ns l #0.00258315 *2
+ns l #7.54205e-005 *1
+ns m #1 *1
+ns m a #1 *2
+ns m a m n n #1 *1
+ns m a n #1 *2
+ns m a n n #1 *2
+ns m a n n ni #1 *2
+ns m a n ni #1 *2
+ns m a ns #1 *1
+ns m a nz ni #1 *2
+ns m a v n #1 *1
+ns m b l #0.000245117 *2
+ns m b n #7.54205e-005 *2
+ns m b n n #1 *2
+ns m b ni #1 *2
+ns m c n ni #1 *2
+ns m d #1 *1
+ns m g a x a v ni ni v v #1 *2
+ns m g n n #1 *2
+ns m g n n ni #1 *2
+ns m g n n wp ni wp ni #1 *2
+ns m g n ni #1 *2
+ns m j #1 *2
+ns m j n #1 *2
+ns m j n n ni #1 *2
+ns m j ni #1 *2
+ns m m m ni q #1 *2
+ns m m n n n v n #1 *2
+ns m m n ni #1 *2
+ns m m ni #1 *2
+ns m n #0.00214948 *2
+ns m n #0.157895 *1
+ns m n #0.842105 *2
+ns m n a n ni #1 *2
+ns m n j n ni #1 *2
+ns m n l #7.54205e-005 *2
+ns m n n #0.000886191 *2
+ns m n n #0.375 *1
+ns m n n #0.625 *2
+ns m n n #5.65654e-005 *1
+ns m n n a n ni #1 *2
+ns m n n n #0.000113131 *2
+ns m n n n #0.25 *1
+ns m n n n #0.75 *2
+ns m n n n n #1 *2
+ns m n n n nh #1 *2
+ns m n n n ni #1 *2
+ns m n n n v ni #1 *2
+ns m n n ni #1 *2
+ns m n n v n #1 *2
+ns m n n v ni #1 *2
+ns m n ni #1 *2
+ns m n ni n #0.5 *1
+ns m n ni n #0.5 *2
+ns m n ni n a v n #1 *2
+ns m n ni n ni #1 *2
+ns m n ni n v #1 *2
+ns m n ni nd v n #1 *2
+ns m n ni ni #1 *2
+ns m n ni v ni #1 *2
+ns m n ni v ns ni ni #1 *2
+ns m n nz a a v a n nz #1 *1
+ns m n q #1 *2
+ns m n v #1 *1
+ns m n v n a n ni #1 *2
+ns m n v n ni #1 *2
+ns m n v n v ni #1 *2
+ns m n v ni #1 *2
+ns m n v q nz n #1 *2
+ns m n v v n #1 *1
+ns m nd #1 *2
+ns m nd ni v ni #1 *2
+ns m nh #1 *2
+ns m nh n #1 *1
+ns m nh n ni #1 *2
+ns m nh ni #1 *2
+ns m ni #1 *2
+ns m ni b n #1 *2
+ns m ni n #1 *2
+ns m ni ns n n #1 *2
+ns m ni nz #1 *2
+ns m ns #1 *1
+ns m ns n n #1 *2
+ns m ns ni #1 *2
+ns m ns nz ni #1 *2
+ns m ns v ni #1 *2
+ns m nz #0.333333 *1
+ns m nz #0.666667 *2
+ns m nz #9.42756e-005 *2
+ns m nz n ni #1 *2
+ns m nz ni #0.111111 *1
+ns m nz ni #0.888889 *2
+ns m nz ni v nd ni #1 *2
+ns m nz v ni #1 *2
+ns m q #0.1 *1
+ns m q #0.9 *2
+ns m q a n ni #1 *1
+ns m q a v #1 *1
+ns m q j ni #1 *2
+ns m q m q j #1 *2
+ns m q n #0.4 *2
+ns m q n #0.6 *1
+ns m q n n ni #1 *2
+ns m q n nz #1 *1
+ns m q ni #1 *1
+ns m q ns n n #1 *2
+ns m q ns ns #1 *1
+ns m q nz m ni #1 *2
+ns m q u nz #1 *1
+ns m q u v ni #1 *2
+ns m q v nz #1 *1
+ns m r nz #1 *1
+ns m v #1 *1
+ns m v m n n n ni #1 *2
+ns m v n #0.000150841 *2
+ns m v n #0.5 *1
+ns m v n #0.5 *2
+ns m v n n #1 *2
+ns m v n n ni #1 *2
+ns m v n ni #1 *2
+ns m v ni #1 *2
+ns m v v v ni #1 *2
+ns n #0.00652387 *3
+ns n #0.0540388 *1
+ns n #0.180481 *2
+ns n #0.344273 *1
+ns n #0.655727 *2
+ns n a a #1 *1
+ns n a a d v n n ni #1 *2
+ns n a a n ni #1 *2
+ns n a a v ni #1 *2
+ns n a j #1 *2
+ns n a j ni #1 *1
+ns n a n #0.000263972 *2
+ns n a n #0.4 *1
+ns n a n #0.6 *2
+ns n a n n #0.000150841 *2
+ns n a n n #0.5 *1
+ns n a n n #0.5 *2
+ns n a n n v ni ni #1 *2
+ns n a n ni #1 *2
+ns n a n v n #1 *2
+ns n a n v u #1 *2
+ns n a ni #0.1 *1
+ns n a ni #0.9 *2
+ns n a ni n #1 *2
+ns n a ni ni #1 *2
+ns n a q #1 *2
+ns n a v n #1 *2
+ns n a v n #5.65654e-005 *2
+ns n a v n ni #1 *2
+ns n a v n ns ni #1 *2
+ns n a v n q #1 *2
+ns n a v q #1 *2
+ns n a v v #1 *2
+ns n b a ni #1 *2
+ns n b a u ni #1 *1
+ns n b c n ni #1 *2
+ns n b c n v q #1 *2
+ns n b j v #1 *2
+ns n b m ni #1 *2
+ns n b n #0.000358247 *2
+ns n b n #1 *2
+ns n b n n #0.000188551 *2
+ns n b n n ni #1 *2
+ns n b n nh n ni #1 *2
+ns n b n ni #1 *2
+ns n b n v ni #1 *2
+ns n b ni #1 *2
+ns n b ni n n ni #1 *2
+ns n b ni ni #1 *2
+ns n b ni nl ni #1 *2
+ns n b ni v ni b m n #1 *2
+ns n b ni v ns ni #1 *2
+ns n b nz ni #1 *2
+ns n b q #1 *2
+ns n b v n #0.000320537 *2
+ns n b v n #1 *2
+ns n b v ni #1 *2
+ns n b v ni n n #1 *2
+ns n b v ni n ni #1 *2
+ns n c a v ni #1 *2
+ns n c n #9.42756e-005 *2
+ns n c n n #0.000150841 *2
+ns n c n n #1 *2
+ns n c n n n #7.54205e-005 *2
+ns n c n n ni #1 *2
+ns n c n ni #1 *2
+ns n c n ni n #1 *2
+ns n c n v n #1 *2
+ns n c ni #1 *2
+ns n c ni n #1 *2
+ns n c ns ni #1 *2
+ns n c v n #0.000113131 *2
+ns n c v n #1 *2
+ns n c v n v ni #1 *2
+ns n c v nh #1 *2
+ns n c v ni #1 *2
+ns n d #0.4 *1
+ns n d #0.6 *2
+ns n d a ni #1 *2
+ns n d m v ni n n n #1 *2
+ns n d n #1 *1
+ns n d n n ni #1 *2
+ns n d n ni #1 *1
+ns n d nd n n v v n ni #1 *2
+ns n d ni #0.909091 *2
+ns n d ni ni #1 *2
+ns n d v n #1 *2
+ns n d v v n #1 *2
+ns n g #1 *2
+ns n g g ni #1 *2
+ns n g n #1 *2
+ns n g n n ni #1 *2
+ns n g n ni #1 *2
+ns n g nd #1 *1
+ns n g ni #1 *2
+ns n g nl n n ni #1 *2
+ns n g nz n v ni #1 *2
+ns n g q n v a n ni #1 *2
+ns n g u ni #1 *2
+ns n g v v ni #1 *2
+ns n i #1 *2
+ns n i n #9.42756e-005 *2
+ns n i n a n n #1 *2
+ns n i ni #0.5 *1
+ns n i ni #0.5 *2
+ns n i nz v #1 *2
+ns n i q #1 *2
+ns n i v v u #1 *2
+ns n j #0.00394072 *2
+ns n j #1 *2
+ns n j #7.54205e-005 *3
+ns n j a r n n ni #1 *2
+ns n j j #0.000471378 *2
+ns n j j #1 *2
+ns n j n #0.000377102 *2
+ns n j n #1 *1
+ns n j n n #1 *1
+ns n j n n #7.54205e-005 *2
+ns n j n ni #1 *2
+ns n j n ni ni #1 *2
+ns n j n ni v n #1 *2
+ns n j n v ni #1 *2
+ns n j nh #1 *2
+ns n j nh ni #1 *2
+ns n j ni #1 *2
+ns n j nz #1 *1
+ns n j q #1 *2
+ns n j r #1 *1
+ns n j v #1 *1
+ns n j v n #0.000113131 *2
+ns n j v ni #1 *2
+ns n k #1 *2
+ns n k ni #1 *2
+ns n k ni n #1 *2
+ns n k ni ns n #1 *2
+ns n k ns #1 *2
+ns n k v j a n ni #1 *2
+ns n k v ni #1 *2
+ns n k wp ni wp ni #1 *2
+ns n l #0.000471378 *2
+ns n m j #1 *2
+ns n m m n #1 *2
+ns n m m ni #1 *2
+ns n m n #0.0010936 *2
+ns n m n #0.142857 *1
+ns n m n #0.857143 *2
+ns n m n n #1 *2
+ns n m n n #5.65654e-005 *2
+ns n m n n n ni #1 *2
+ns n m n n ni #1 *2
+ns n m n v n ni v ni #1 *2
+ns n m ni #1 *2
+ns n m ni ni #1 *2
+ns n m ni v nh #1 *2
+ns n m ni v q #1 *2
+ns n m ns #1 *2
+ns n m nt r #1 *1
+ns n m nz n #1 *1
+ns n m nz q ns n #1 *2
+ns n m q #1 *2
+ns n m q n #9.42756e-005 *2
+ns n m q n n #0.00073535 *3
+ns n m q n n #1 *2
+ns n m q ni #1 *2
+ns n m v #1 *1
+ns n m v n a n ni #1 *2
+ns n n #0.000659929 *3
+ns n n #0.00727808 *1
+ns n n #0.07691 *2
+ns n n #0.233371 *1
+ns n n #0.766629 *2
+ns n n a #1 *1
+ns n n a n #1 *1
+ns n n a n n #7.54205e-005 *2
+ns n n a n ni #1 *2
+ns n n a ni #1 *1
+ns n n a v n #1 *2
+ns n n b n #5.65654e-005 *2
+ns n n b ni #1 *2
+ns n n c n n #0.000113131 *2
+ns n n c n ni #1 *2
+ns n n c ni #1 *2
+ns n n c v n #1 *2
+ns n n c v n ni #1 *2
+ns n n d #1 *2
+ns n n d ni #1 *2
+ns n n d v n #1 *2
+ns n n i #1 *2
+ns n n i n #5.65654e-005 *2
+ns n n j #0.000207406 *2
+ns n n j #1 *2
+ns n n j n #1 *2
+ns n n j ni #1 *2
+ns n n j v n #1 *2
+ns n n k n #1 *2
+ns n n k ni #1 *2
+ns n n k ni ni #1 *2
+ns n n k v #1 *2
+ns n n m m n #1 *2
+ns n n m n #0.000339392 *2
+ns n n m n #1 *2
+ns n n m n n #1 *2
+ns n n m n ni #1 *2
+ns n n m ni #1 *2
+ns n n m ni m q #1 *2
+ns n n m q #1 *2
+ns n n m q n n #9.42756e-005 *3
+ns n n n #0.000358247 *3
+ns n n n #0.00133871 *1
+ns n n n #0.0217965 *2
+ns n n n #0.20614 *1
+ns n n n #0.79386 *2
+ns n n n a n ni ns ni #1 *2
+ns n n n c n n #7.54205e-005 *2
+ns n n n c v n ni #1 *2
+ns n n n d v n #1 *2
+ns n n n i n #1 *2
+ns n n n j #1 *2
+ns n n n j #7.54205e-005 *2
+ns n n n m n #5.65654e-005 *2
+ns n n n m ni #1 *2
+ns n n n n #0.00411042 *2
+ns n n n n #1 *2
+ns n n n n #5.65654e-005 *1
+ns n n n n n #0.000584509 *2
+ns n n n n n #1 *2
+ns n n n n n n #7.54205e-005 *2
+ns n n n n n ni #1 *2
+ns n n n n n u #1 *2
+ns n n n n ni #1 *2
+ns n n n n nz ni #1 *2
+ns n n n n v n #1 *2
+ns n n n n v n #5.65654e-005 *2
+ns n n n n v ni #1 *2
+ns n n n n v v n #1 *2
+ns n n n nh #1 *2
+ns n n n ni #1 *2
+ns n n n ni ni #1 *2
+ns n n n ni ns ni #1 *2
+ns n n n ni nz ni #1 *2
+ns n n n ns n #0.000113131 *2
+ns n n n ns n ni #1 *2
+ns n n n nz #1 *1
+ns n n n q #1 *2
+ns n n n q ni #1 *2
+ns n n n v #1 *2
+ns n n n v a n ni #1 *2
+ns n n n v n #0.000678784 *2
+ns n n n v n #1 *2
+ns n n n v ni #1 *2
+ns n n n v ni n ni #1 *2
+ns n n n v v n #0.000113131 *2
+ns n n n v v ni #1 *2
+ns n n n v v v #1 *2
+ns n n n wp ns wp ni #1 *2
+ns n n nd n ni #1 *2
+ns n n nd ni #1 *2
+ns n n nd v ni n #1 *2
+ns n n nh #1 *2
+ns n n nh n n #1 *1
+ns n n nh nh n #1 *2
+ns n n nh ni #1 *2
+ns n n ni #0.960725 *2
+ns n n ni a n wp ni wp ni #1 *2
+ns n n ni b ni #1 *2
+ns n n ni b ni ni #1 *2
+ns n n ni i v #1 *2
+ns n n ni j #1 *2
+ns n n ni m n m m ni #1 *2
+ns n n ni m ni #1 *2
+ns n n ni n #1 *2
+ns n n ni n n #0.333333 *1
+ns n n ni n n #0.666667 *2
+ns n n ni n n c n n ni #1 *2
+ns n n ni n n n ni #1 *2
+ns n n ni n n v #1 *2
+ns n n ni n nh n ni #1 *2
+ns n n ni n ni #1 *2
+ns n n ni n u #1 *2
+ns n n ni n v n #1 *2
+ns n n ni n v nz ni #1 *2
+ns n n ni ni #0.1 *1
+ns n n ni ni #0.9 *2
+ns n n ni ni n ni #1 *2
+ns n n ni ni ni #1 *2
+ns n n ni nl v v n #1 *1
+ns n n ni ns n n n ni #1 *2
+ns n n ni ns n n ni #1 *2
+ns n n ni ns n ni #1 *2
+ns n n ni ns n v q #1 *2
+ns n n ni ns ni #1 *2
+ns n n ni ns v n #1 *2
+ns n n ni nz ni #1 *2
+ns n n ni v n v v n #1 *2
+ns n n ni v ni #1 *2
+ns n n ni v q #1 *2
+ns n n nl n ni #1 *2
+ns n n ns #1 *1
+ns n n ns j #1 *2
+ns n n ns n #0.000697639 *2
+ns n n ns n #1 *1
+ns n n ns n n #0.000131986 *2
+ns n n ns n n m n #1 *2
+ns n n ns ni #1 *2
+ns n n ns ns #1 *1
+ns n n ns ns n #7.54205e-005 *2
+ns n n nz #1 *1
+ns n n nz n #1 *2
+ns n n nz n ni #1 *2
+ns n n nz ni #1 *2
+ns n n nz q #1 *2
+ns n n nz v #1 *2
+ns n n nz v ni #1 *2
+ns n n q #1 *2
+ns n n q m n n #1 *2
+ns n n q n v n v v nh #1 *2
+ns n n q nd j ni #1 *2
+ns n n v #1 *2
+ns n n v j n #9.42756e-005 *2
+ns n n v m ni #1 *2
+ns n n v m ni n ni #1 *2
+ns n n v m q m nz ni n #1 *2
+ns n n v n #0.000754205 *3
+ns n n v n #0.00230032 *2
+ns n n v n #0.125 *1
+ns n n v n #0.875 *2
+ns n n v n #7.54205e-005 *1
+ns n n v n m n #1 *2
+ns n n v n m n m q n #1 *2
+ns n n v n m q n ni #1 *2
+ns n n v n m q n ni b ni #1 *2
+ns n n v n n #0.000207406 *2
+ns n n v n n ni #1 *2
+ns n n v n n ni b ni #1 *2
+ns n n v n n v ni #1 *2
+ns n n v n ni #1 *2
+ns n n v n ns ni #1 *2
+ns n n v n v n #1 *2
+ns n n v n v n #5.65654e-005 *2
+ns n n v n v ni #1 *2
+ns n n v ni #0.988372 *2
+ns n n v ni n n #1 *2
+ns n n v ni n ni #1 *2
+ns n n v ni n v ni #1 *2
+ns n n v ni ni #1 *2
+ns n n v ni ns ni #1 *2
+ns n n v ni v n #1 *2
+ns n n v ns n ni #1 *2
+ns n n v ns ni #1 *2
+ns n n v q #1 *2
+ns n n v v n #0.000226261 *2
+ns n n v v n #1 *2
+ns n n v v n v n #1 *2
+ns n n v v nh #1 *2
+ns n n v v ni #1 *2
+ns n n v v u #1 *2
+ns n n v wp nz wp wp a a a a a wp ns ni #1 *2
+ns n n wp j wp ni #1 *2
+ns n n wp n wp n #0.000207406 *2
+ns n n wp ni wp a n ni #1 *2
+ns n n wp ni wp n ni #1 *2
+ns n n wp ni wp ni #1 *2
+ns n nd #1 *1
+ns n nd a n ni #1 *2
+ns n nd d n #1 *1
+ns n nd m q nz #1 *1
+ns n nd n #5.65654e-005 *2
+ns n nd n j a n ni #1 *2
+ns n nd n n #1 *2
+ns n nd n ni #1 *2
+ns n nd n ni n ni #1 *2
+ns n nd n q #1 *2
+ns n nd n v n #1 *2
+ns n nd n v ni ns ni #1 *2
+ns n nd ni #1 *2
+ns n nd nz #1 *1
+ns n nd v ni #1 *2
+ns n nh #0.333333 *2
+ns n nh #0.666667 *1
+ns n nh g n v v ni n #1 *2
+ns n nh n #0.2 *2
+ns n nh n #0.8 *1
+ns n nh n m v q #1 *2
+ns n nh n n a n ni #1 *2
+ns n nh n n n ni #1 *2
+ns n nh n n v ni #1 *2
+ns n nh n ni #1 *2
+ns n nh n ni ns ni #1 *2
+ns n nh n v n #1 *2
+ns n nh n v ni #1 *2
+ns n nh nd m q n #1 *1
+ns n nh nh nz #1 *1
+ns n nh ni #0.285714 *1
+ns n nh ni #0.714286 *2
+ns n nh ni ni #1 *2
+ns n nh ni ns ni #1 *2
+ns n nh nl #1 *1
+ns n nh nz nz ni #1 *1
+ns n nh u #1 *2
+ns n nh v n nz #1 *1
+ns n nh v ni #1 *2
+ns n ni #0.95353 *2
+ns n ni #7.54205e-005 *2
+ns n ni a a a v v n #1 *2
+ns n ni a n n v #1 *2
+ns n ni a n ni #1 *2
+ns n ni b n v n #1 *2
+ns n ni b v ni #1 *2
+ns n ni d v n v q #1 *2
+ns n ni i n #1 *2
+ns n ni i q #1 *2
+ns n ni j #1 *2
+ns n ni j nh n n ni #1 *2
+ns n ni j ni #1 *2
+ns n ni j nz ni #1 *2
+ns n ni j v ni #1 *2
+ns n ni m b ni #1 *2
+ns n ni m j #1 *2
+ns n ni m ni #1 *2
+ns n ni m q n ni #1 *2
+ns n ni m v ni #1 *2
+ns n ni m v ni n #1 *2
+ns n ni n #0.135135 *1
+ns n ni n #0.864865 *2
+ns n ni n a n v #1 *2
+ns n ni n c n ni #1 *2
+ns n ni n c v ni #1 *2
+ns n ni n m q n m q v n #1 *2
+ns n ni n n #0.111111 *1
+ns n ni n n #0.888889 *2
+ns n ni n n m n #1 *2
+ns n ni n n n #0.333333 *1
+ns n ni n n n #0.666667 *2
+ns n ni n n n n #1 *2
+ns n ni n n n ni #1 *2
+ns n ni n n ni #1 *2
+ns n ni n n v #1 *2
+ns n ni n n v ni #1 *2
+ns n ni n nd n ni #1 *2
+ns n ni n nh #1 *2
+ns n ni n ni #1 *2
+ns n ni n ni n v n #1 *2
+ns n ni n q #1 *2
+ns n ni n u #1 *2
+ns n ni n u n n n #1 *2
+ns n ni n v #1 *2
+ns n ni n v n #1 *2
+ns n ni n v n ni #1 *2
+ns n ni n v ni #1 *2
+ns n ni n v p n n v v n #1 *2
+ns n ni n v v #1 *2
+ns n ni nh #1 *2
+ns n ni nh a n a ni #1 *2
+ns n ni ni #0.980769 *2
+ns n ni ni d v v n #1 *2
+ns n ni ni ni #1 *2
+ns n ni ns j #1 *2
+ns n ni ns j nd n ni #1 *2
+ns n ni ns n #1 *2
+ns n ni ns n a v n #1 *2
+ns n ni ns n n #1 *2
+ns n ni ns n n n #1 *2
+ns n ni ns n n v ni #1 *2
+ns n ni ns n nh #1 *2
+ns n ni ns n nh n ni #1 *2
+ns n ni ns n nh ni #1 *2
+ns n ni ns n ni #1 *2
+ns n ni ns n nz ni #1 *2
+ns n ni ns n nz ni n ni #1 *2
+ns n ni ns n v n #1 *2
+ns n ni ns ni #1 *2
+ns n ni ns ni m n #1 *2
+ns n ni ns ni ni #1 *2
+ns n ni ns ni ns ns ni #1 *2
+ns n ni ns ni ns ns ns ni #1 *2
+ns n ni ns ns ni #1 *2
+ns n ni ns ns ni ns ni #1 *2
+ns n ni ns ns nz ni #1 *2
+ns n ni ns nz n #1 *2
+ns n ni ns nz n ni #1 *2
+ns n ni ns v #1 *2
+ns n ni ns v n ni #1 *2
+ns n ni ns v ni #1 *2
+ns n ni nz #1 *2
+ns n ni nz n #1 *2
+ns n ni nz n a ni #1 *2
+ns n ni nz n n #1 *2
+ns n ni nz n ni #1 *2
+ns n ni nz ni #1 *2
+ns n ni nz v #1 *2
+ns n ni nz v n #1 *2
+ns n ni q #1 *2
+ns n ni q j #1 *2
+ns n ni v j ni #1 *2
+ns n ni v j v n #1 *2
+ns n ni v m n #1 *2
+ns n ni v m ni #1 *2
+ns n ni v n #0.111111 *1
+ns n ni v n #0.888889 *2
+ns n ni v n n ni #1 *2
+ns n ni v n ni #1 *2
+ns n ni v n v nh #1 *2
+ns n ni v n v ni #1 *2
+ns n ni v ni #1 *2
+ns n ni v ni n n n ni #1 *2
+ns n ni v ni v n #1 *2
+ns n ni v ns ni #1 *2
+ns n ni v q #1 *2
+ns n ni v v #1 *2
+ns n ni v v ni #1 *2
+ns n ni wp ns n a ni #1 *2
+ns n nl #1 *1
+ns n nl ni #1 *2
+ns n nl v ni #1 *2
+ns n ns #0.000226261 *1
+ns n ns #1 *1
+ns n ns d ni #1 *2
+ns n ns j #1 *2
+ns n ns j #7.54205e-005 *2
+ns n ns j ni #1 *2
+ns n ns m ni #1 *2
+ns n ns n #0.000150841 *1
+ns n ns n #0.00131986 *2
+ns n ns n #0.375 *2
+ns n ns n #0.625 *1
+ns n ns n n #0.000245117 *2
+ns n ns n n #1 *2
+ns n ns n n n #0.000169696 *2
+ns n ns n n u ni #1 *2
+ns n ns n ni #0.333333 *1
+ns n ns n ni #0.666667 *2
+ns n ns n u #1 *2
+ns n ns nd n v nh m ni #1 *2
+ns n ns nd n v nh m ni m ni #1 *2
+ns n ns ni #1 *2
+ns n ns v n #7.54205e-005 *2
+ns n ns v n a n ni #1 *2
+ns n ns v n ni #1 *2
+ns n ns v ni ni #1 *2
+ns n ns v v ni #1 *2
+ns n ns v v v #1 *2
+ns n ns wp ni wp ni #1 *2
+ns n nt n #1 *1
+ns n nt n n ni #1 *2
+ns n nt n v ni #1 *2
+ns n nt ni #1 *1
+ns n nt v v n #1 *2
+ns n nz #0.000452523 *2
+ns n nz #0.97541 *1
+ns n nz a ni #1 *2
+ns n nz b q #1 *2
+ns n nz j #1 *2
+ns n nz j j nz ni #1 *2
+ns n nz j ni #1 *2
+ns n nz m ni #1 *2
+ns n nz m q n ni b ni #1 *2
+ns n nz n #0.000754205 *2
+ns n nz n #0.206897 *1
+ns n nz n #0.793103 *2
+ns n nz n #9.42756e-005 *1
+ns n nz n n #0.000113131 *2
+ns n nz n n #1 *1
+ns n nz n n ni #1 *2
+ns n nz n ni #0.133333 *1
+ns n nz n ni #0.866667 *2
+ns n nz n q #1 *2
+ns n nz n v n #1 *2
+ns n nz n v ni #1 *2
+ns n nz nh ni n ni #1 *2
+ns n nz ni #0.973684 *2
+ns n nz ni ni #1 *2
+ns n nz ni ns ni #1 *2
+ns n nz ni v n n #1 *2
+ns n nz ni v ni #1 *2
+ns n nz ni v v n #1 *2
+ns n nz ns j #1 *2
+ns n nz ns m ni #1 *2
+ns n nz ns n ni #1 *2
+ns n nz ns n nz #1 *1
+ns n nz ns n v ni #1 *2
+ns n nz ns ni #1 *2
+ns n nz ns ns n ni #1 *2
+ns n nz ns nz #1 *1
+ns n nz ns nz nz #1 *1
+ns n nz nz #1 *1
+ns n nz nz ni #1 *2
+ns n nz nz ns nz #1 *1
+ns n nz q g v j ns nz #1 *1
+ns n nz q n #1 *1
+ns n nz v #1 *2
+ns n nz v n a nh #1 *1
+ns n nz v n n v n #1 *2
+ns n nz v ni #1 *2
+ns n p n n n v ni #1 *2
+ns n p n ni #1 *2
+ns n p ni #1 *2
+ns n p ni ni #1 *2
+ns n p nz n #1 *2
+ns n q #1 *2
+ns n q n n #1 *2
+ns n q n ni #1 *2
+ns n q ni n #1 *2
+ns n q ns n #1 *2
+ns n q ns n n v #1 *2
+ns n q q n n #1 *2
+ns n q v nd n v n m q #1 *2
+ns n q v ni n v n #1 *2
+ns n r n #1 *2
+ns n r n n #1 *2
+ns n r ns n n n #1 *2
+ns n u #1 *2
+ns n u j v #1 *2
+ns n u n n #1 *1
+ns n u n n #7.54205e-005 *2
+ns n u n n n #1 *1
+ns n u n n ni #1 *2
+ns n u n ni #1 *2
+ns n v #0.945313 *2
+ns n v a n #0.000716494 *2
+ns n v a n #1 *2
+ns n v a n ni #1 *2
+ns n v a ni #1 *2
+ns n v b n v nz ni #1 *2
+ns n v b ni #1 *2
+ns n v b v n #7.54205e-005 *2
+ns n v b v ni #1 *2
+ns n v c n ni ni #1 *2
+ns n v c nl n v n n #1 *2
+ns n v c ns v n #1 *2
+ns n v c nz ni #1 *2
+ns n v c v ni #1 *2
+ns n v j #1 *2
+ns n v j ni #1 *2
+ns n v m n #1 *2
+ns n v m ni #1 *2
+ns n v m q ni #1 *2
+ns n v n #0.000603364 *1
+ns n v n #0.0108417 *2
+ns n v n #0.109195 *1
+ns n v n #0.890805 *2
+ns n v n c v n #0.000113131 *2
+ns n v n c v ni #1 *2
+ns n v n d v n #1 *2
+ns n v n i ni #1 *2
+ns n v n k ni n ni #1 *2
+ns n v n n #0.000188551 *1
+ns n v n n #0.00084848 *2
+ns n v n n #1 *2
+ns n v n n c n v ni #1 *2
+ns n v n n n #1 *2
+ns n v n n n #7.54205e-005 *2
+ns n v n n n n n v n #1 *2
+ns n v n n n ni #1 *2
+ns n v n n ni #1 *2
+ns n v n n v #1 *2
+ns n v n ni #0.27027 *1
+ns n v n ni #0.72973 *2
+ns n v n ns n #0.000188551 *2
+ns n v n nz v ni #1 *2
+ns n v n v #1 *2
+ns n v n v n #0.000131986 *2
+ns n v n v n #0.333333 *1
+ns n v n v n #0.666667 *2
+ns n v n v n ni #1 *2
+ns n v n v n v ni #1 *2
+ns n v n v ni #1 *2
+ns n v n v q #1 *2
+ns n v n v v n #5.65654e-005 *2
+ns n v n v v ni #1 *2
+ns n v n wp ni wp ni #1 *2
+ns n v nh #1 *2
+ns n v nh nh n ni #1 *1
+ns n v ni #0.972603 *2
+ns n v ni b v n ni #1 *2
+ns n v ni n n #1 *2
+ns n v ni n ni #1 *2
+ns n v ni n v v v n #1 *2
+ns n v ni ni #1 *2
+ns n v ni ns ni #1 *2
+ns n v ni ns ns ni ni #1 *2
+ns n v ni ns v ni #1 *2
+ns n v ni nz nz n ni #1 *2
+ns n v ni v j v n #1 *2
+ns n v ni v n #1 *2
+ns n v ni v n n #1 *2
+ns n v ni v v ni #1 *2
+ns n v ns ni #1 *2
+ns n v ns v ni #1 *2
+ns n v nz #0.25 *2
+ns n v nz #0.75 *1
+ns n v nz c nz n #1 *2
+ns n v nz ni #1 *2
+ns n v nz ni ns ni #1 *2
+ns n v nz ns #1 *1
+ns n v p n d v v #1 *2
+ns n v q #1 *2
+ns n v q j n #1 *2
+ns n v q nz q #1 *2
+ns n v q v ns ni #1 *2
+ns n v r n ni n ni #1 *1
+ns n v u #1 *2
+ns n v v #0.964286 *2
+ns n v v n #0.00116902 *2
+ns n v v n #0.966667 *2
+ns n v v n ni #1 *2
+ns n v v n ns n #5.65654e-005 *2
+ns n v v n q #1 *2
+ns n v v n v #1 *2
+ns n v v ni #1 *2
+ns n v v ns v ni #1 *2
+ns n v v nz #0.5 *1
+ns n v v nz #0.5 *2
+ns n v v q nz nh #1 *2
+ns n v v u #1 *2
+ns n v v v n #1 *2
+ns n v v v n v #1 *2
+ns n v wp a a a a wp n #1 *2
+ns n v wp n wp n #7.54205e-005 *2
+ns n v wp ni wp ni #1 *2
+ns n wp a a a wp ni #1 *2
+ns n wp n n v ni #1 *2
+ns n wp n wp n #0.000226261 *2
+ns n wp nh wp b n ni #1 *2
+ns n wp ni wp a n ni #1 *2
+ns n wp ni wp n ni #1 *2
+ns n wp ni wp ni #1 *2
+ns n wp ni wp ni ns ni #1 *2
+ns n wp ns wp ni #1 *2
+ns n wp nz n n ni #1 *2
+ns n ws g n #1 *2
+ns nd #1 *1
+ns nd a #1 *2
+ns nd a n n ni #1 *2
+ns nd a n v ns #1 *1
+ns nd a ni #1 *2
+ns nd a ni n ni #1 *2
+ns nd a ni v ni #1 *2
+ns nd a nz #1 *1
+ns nd b #1 *1
+ns nd b n ni #1 *2
+ns nd b ni #1 *2
+ns nd d q m j #1 *2
+ns nd g n ni #1 *2
+ns nd g ni #1 *2
+ns nd g q #1 *2
+ns nd m q v #1 *1
+ns nd n #0.000358247 *2
+ns nd n #0.000546798 *1
+ns nd n #0.368421 *1
+ns nd n #0.631579 *2
+ns nd n a n ni #1 *2
+ns nd n c n ni #1 *2
+ns nd n n #0.000471378 *2
+ns nd n n #0.166667 *1
+ns nd n n #0.833333 *2
+ns nd n n a n #1 *2
+ns nd n n n #0.000207406 *2
+ns nd n n n ni #1 *2
+ns nd n n ni #1 *2
+ns nd n ni #1 *2
+ns nd n ni ni #1 *2
+ns nd n ni ns ns n ni #1 *2
+ns nd n ns #1 *1
+ns nd n ns ns n #1 *1
+ns nd n nz ns #1 *1
+ns nd n v #1 *1
+ns nd n v n ni #1 *2
+ns nd nh n v ni #1 *2
+ns nd nh nh ni #1 *2
+ns nd nh v #1 *1
+ns nd ni #1 *2
+ns nd ni n v #1 *2
+ns nd nl #1 *1
+ns nd ns #1 *1
+ns nd ns n v #1 *2
+ns nd ns ns #1 *1
+ns nd ns nz nz ns nz ni #1 *2
+ns nd ns v v g #1 *2
+ns nd nz #1 *1
+ns nd nz n #1 *2
+ns nd nz n ni #1 *2
+ns nd nz n v v n #1 *2
+ns nd nz ni #1 *2
+ns nd p n u #1 *2
+ns nd q #1 *1
+ns nd q n ni #1 *2
+ns nd q n v ni #1 *2
+ns nd q nh #1 *1
+ns nd q v ni #1 *2
+ns nd u n n n #1 *1
+ns nd v #1 *1
+ns nd v a n ni #1 *2
+ns nd v n #1 *2
+ns nd v n n n v n #1 *2
+ns nd v n ni #1 *2
+ns nd v n v n #1 *2
+ns nd v ni #1 *2
+ns nd v ni ni #1 *2
+ns nd v v #1 *2
+ns nd wp ni nz nz v ni #1 *2
+ns nh #0.12963 *2
+ns nh #0.87037 *1
+ns nh a m ni #1 *2
+ns nh a n a n ni #1 *2
+ns nh a n n ni #1 *2
+ns nh a n ni #1 *2
+ns nh a ni #0.333333 *2
+ns nh a ni #0.666667 *1
+ns nh g m ni #1 *2
+ns nh g ni #1 *2
+ns nh g nz #1 *1
+ns nh j #1 *1
+ns nh j n #1 *2
+ns nh k ni #1 *2
+ns nh m n #1 *1
+ns nh m n j n n v n ni #1 *2
+ns nh m n ni #1 *1
+ns nh m q n n #1 *1
+ns nh n #0.000188551 *1
+ns nh n #0.000490233 *2
+ns nh n #0.458333 *2
+ns nh n #0.541667 *1
+ns nh n a n ni #1 *2
+ns nh n b ni #1 *2
+ns nh n n #0.000207406 *2
+ns nh n n #0.214286 *1
+ns nh n n #0.785714 *2
+ns nh n n n a n ni #1 *2
+ns nh n n n ni #1 *2
+ns nh n n ni #1 *2
+ns nh n n ni ni #1 *2
+ns nh n n nz #1 *1
+ns nh n n v ni #1 *2
+ns nh n n v v ni #1 *2
+ns nh n n wp ni wp a n ni #1 *2
+ns nh n ni #0.947368 *2
+ns nh n ni ni #1 *2
+ns nh n ns #1 *1
+ns nh n nz #1 *1
+ns nh n nz v #1 *1
+ns nh n v n #1 *1
+ns nh n v n a n ni #1 *2
+ns nh n v n ni #1 *2
+ns nh n v ni #1 *2
+ns nh n v wp ni wp ni #1 *2
+ns nh nd n ni #1 *2
+ns nh nd n v ni #1 *2
+ns nh nd nz ni #1 *2
+ns nh nh #0.166667 *2
+ns nh nh #0.833333 *1
+ns nh nh a n #1 *1
+ns nh nh d #1 *1
+ns nh nh n #0.000150841 *1
+ns nh nh n #1 *1
+ns nh nh n #9.42756e-005 *2
+ns nh nh n n #0.000188551 *2
+ns nh nh n n #1 *2
+ns nh nh n n ni #1 *2
+ns nh nh n ni #1 *2
+ns nh nh n v ni #1 *2
+ns nh nh n v v n ni #1 *2
+ns nh nh ni #0.142857 *1
+ns nh nh ni #0.857143 *2
+ns nh nh v n #5.65654e-005 *2
+ns nh ni #0.288462 *1
+ns nh ni #0.711538 *2
+ns nh ni a n ni #1 *2
+ns nh ni m ni #1 *2
+ns nh ni ni #1 *2
+ns nh ni nz ni #1 *2
+ns nh ns #1 *1
+ns nh ns m n #1 *2
+ns nh ns n v v ni #1 *2
+ns nh ns ni #1 *2
+ns nh ns nz #1 *1
+ns nh ns wp nh p ns #1 *1
+ns nh nz #1 *1
+ns nh nz n ni #1 *2
+ns nh nz n v ni #1 *2
+ns nh nz n wp ns wp ni #1 *2
+ns nh nz ni #1 *2
+ns nh nz ns #1 *1
+ns nh nz nz ni #1 *2
+ns nh p a ns #1 *1
+ns nh p nz n ni #1 *2
+ns nh p v n n #1 *2
+ns nh q #1 *2
+ns nh u n n v n #1 *2
+ns nh v #0.5 *1
+ns nh v #0.5 *2
+ns nh v n #0.5 *1
+ns nh v n #0.5 *2
+ns nh v n j nz #1 *1
+ns nh v n n #1 *1
+ns nh v n ni #1 *2
+ns nh v n nz ni #1 *2
+ns nh v n v ni #1 *2
+ns nh v ni #1 *2
+ns nh v ni ni #1 *2
+ns nh v ns #1 *1
+ns nh v nz #1 *1
+ns nh v v n #1 *2
+ns nh wp ni wp n ni #1 *2
+ns nh wp ni wp ni #1 *2
+ns ni #0.0133306 *2
+ns ni #0.94291 *2
+ns ni a m m m a v n #1 *2
+ns ni a n #0.5 *1
+ns ni a n #0.5 *2
+ns ni a n n #1 *2
+ns ni a ni #1 *2
+ns ni a nz n v v n #1 *2
+ns ni a q #1 *2
+ns ni a v #1 *2
+ns ni a v j v ni #1 *2
+ns ni b n #1 *2
+ns ni b n n #1 *2
+ns ni b n ni #1 *2
+ns ni b n v n #1 *2
+ns ni b v ni #1 *2
+ns ni c n v n #1 *2
+ns ni d ni #1 *2
+ns ni g a n #1 *1
+ns ni i n #1 *2
+ns ni j #0.904762 *2
+ns ni j a v ni #1 *2
+ns ni j h ni #1 *2
+ns ni j j #1 *2
+ns ni j j a ni #1 *2
+ns ni j n #1 *2
+ns ni j n j ni #1 *2
+ns ni j n n #1 *2
+ns ni j n n ni #1 *2
+ns ni j n u #1 *2
+ns ni j ni #1 *2
+ns ni j ni v n #1 *2
+ns ni j u #1 *2
+ns ni j v n #1 *2
+ns ni j v p n n ni #1 *2
+ns ni m m n ni #1 *2
+ns ni m m ni m v ni #1 *2
+ns ni m n #1 *2
+ns ni m n ni ns n n #1 *2
+ns ni m ni #1 *2
+ns ni m nl v #1 *2
+ns ni m q #1 *2
+ns ni m q n n v q #1 *2
+ns ni m q n ni #1 *2
+ns ni m v ni #1 *2
+ns ni m wp m wp n #1 *2
+ns ni n #0.000433668 *2
+ns ni n #0.184211 *1
+ns ni n #0.815789 *2
+ns ni n a n n ni #1 *2
+ns ni n b ni #1 *2
+ns ni n c n n v n #1 *2
+ns ni n c n v ni #1 *2
+ns ni n c v n n #1 *2
+ns ni n c v ni #1 *2
+ns ni n j #1 *2
+ns ni n n #0.947368 *2
+ns ni n n #5.65654e-005 *2
+ns ni n n c j #1 *2
+ns ni n n c n ni #1 *2
+ns ni n n n #1 *2
+ns ni n n n n v n #1 *2
+ns ni n n n ni #1 *2
+ns ni n n ni #1 *2
+ns ni n n ni n n v n #1 *2
+ns ni n n q #1 *2
+ns ni n n u #1 *2
+ns ni n n v #1 *2
+ns ni n n v n #1 *2
+ns ni n n v nh #1 *2
+ns ni n n v ni #1 *2
+ns ni n nd n ni #1 *2
+ns ni n nh ni ns ni #1 *2
+ns ni n nh v #1 *2
+ns ni n ni #1 *2
+ns ni n ni n n n #1 *2
+ns ni n ni n ni #1 *2
+ns ni n ni n v #1 *2
+ns ni n ni ni #1 *2
+ns ni n ni ns ni #1 *2
+ns ni n nz #1 *2
+ns ni n nz ni #1 *2
+ns ni n nz v ni #1 *2
+ns ni n nz v v ns v nh #1 *2
+ns ni n p nd #1 *2
+ns ni n p ns n ni #1 *2
+ns ni n q #1 *2
+ns ni n u #1 *2
+ns ni n v #1 *2
+ns ni n v j #1 *2
+ns ni n v n #1 *2
+ns ni n v n n #1 *2
+ns ni n v n ni #1 *2
+ns ni n v nh #1 *2
+ns ni n v ni #0.142857 *1
+ns ni n v ni #0.857143 *2
+ns ni n v nz ni #1 *2
+ns ni n v v #1 *2
+ns ni n v v n #1 *2
+ns ni n v v ni #1 *2
+ns ni n v v v n #1 *2
+ns ni nd v n #1 *2
+ns ni nd v n wp v ns wp n ni #1 *2
+ns ni nd v ni #1 *2
+ns ni nh #1 *1
+ns ni nh n #1 *2
+ns ni nh ni #1 *2
+ns ni nh ns v n #1 *2
+ns ni nh v ni #1 *2
+ns ni ni #0.983607 *2
+ns ni ni j n ni #1 *2
+ns ni ni m q #1 *2
+ns ni ni n a n #1 *2
+ns ni ni n c n n v v #1 *2
+ns ni ni n n #1 *2
+ns ni ni n ni #1 *2
+ns ni ni n v #1 *2
+ns ni ni n v n v #1 *2
+ns ni ni nd m nh #1 *2
+ns ni ni ni #1 *2
+ns ni ni ni v ni #1 *2
+ns ni ni nz n #1 *2
+ns ni ni nz n nz v v nh #1 *2
+ns ni ni v n #1 *2
+ns ni nl ni #1 *2
+ns ni ns #0.2 *2
+ns ni ns #0.8 *1
+ns ni ns b n #1 *1
+ns ni ns j #1 *2
+ns ni ns n #0.5 *1
+ns ni ns n #0.5 *2
+ns ni ns n n ni #1 *2
+ns ni ns n n v #1 *2
+ns ni ns n n v ni #1 *2
+ns ni ns n n v v #1 *2
+ns ni ns n n v v n #1 *2
+ns ni ns n ni #1 *2
+ns ni ns n v q #1 *2
+ns ni ns n v v ni #1 *2
+ns ni ns nh n v ni #1 *2
+ns ni ns ni #1 *2
+ns ni ns ni ns ni #1 *2
+ns ni ns ni nz ni #1 *2
+ns ni ns ns ni #1 *2
+ns ni ns ns u #1 *2
+ns ni ns nz j #1 *2
+ns ni ns nz n #1 *2
+ns ni ns nz ni #1 *2
+ns ni ns nz nz n #1 *2
+ns ni ns v a c v n #1 *2
+ns ni ns v ni #1 *2
+ns ni ns v v #1 *2
+ns ni nt v n #1 *2
+ns ni nz #0.375 *2
+ns ni nz #0.625 *1
+ns ni nz n #1 *2
+ns ni nz n ni #1 *2
+ns ni nz n v n #1 *2
+ns ni nz nh #1 *2
+ns ni nz ni #1 *2
+ns ni nz nl n #1 *2
+ns ni nz ns v #1 *2
+ns ni nz nz ni #1 *2
+ns ni nz nz v ni #1 *2
+ns ni nz q #1 *2
+ns ni nz v n #1 *2
+ns ni nz v nz n #1 *2
+ns ni nz v v n #1 *2
+ns ni nz v v v n #1 *2
+ns ni q n v #1 *2
+ns ni v #1 *2
+ns ni v a n n n ni #1 *2
+ns ni v a v q #1 *2
+ns ni v m nz #1 *2
+ns ni v m q #1 *2
+ns ni v n #0.923077 *2
+ns ni v n n #1 *1
+ns ni v n n nh #1 *2
+ns ni v n ni #1 *2
+ns ni v n v ni #1 *2
+ns ni v nh #1 *2
+ns ni v nh ni #1 *2
+ns ni v nh v v #1 *2
+ns ni v ni #1 *2
+ns ni v ni n b ni #1 *2
+ns ni v ni n ni #1 *2
+ns ni v ni ni ni #1 *2
+ns ni v ni ns ni #1 *2
+ns ni v ns a a n n #1 *2
+ns ni v ns j ni #1 *2
+ns ni v ns ni #1 *2
+ns ni v nz d n #1 *2
+ns ni v nz nz n #1 *2
+ns ni v q #1 *2
+ns ni v v #1 *2
+ns ni v v n #1 *2
+ns ni wp j wp a v ni #1 *2
+ns ni wp nh n n ni #1 *2
+ns ni wp ni #1 *2
+ns ni wp nl wp n #1 *2
+ns ni x nh n n #1 *2
+ns nl #0.923077 *1
+ns nl a ni #1 *2
+ns nl b n n ni #1 *2
+ns nl b n ni #1 *2
+ns nl b ni #1 *2
+ns nl b wp ni wp ni #1 *2
+ns nl b wp ni wp ns ni #1 *2
+ns nl n #0.000527943 *2
+ns nl n #0.2 *1
+ns nl n #0.8 *2
+ns nl n #7.54205e-005 *1
+ns nl n m n m ni ni n #1 *2
+ns nl n n #0.000150841 *2
+ns nl n n #0.285714 *1
+ns nl n n #0.714286 *2
+ns nl n ni #1 *2
+ns nl n nz ni #1 *2
+ns nl n v ni #1 *2
+ns nl n v v #1 *2
+ns nl ni #0.266667 *1
+ns nl ni #0.733333 *2
+ns nl ni n n n #1 *2
+ns nl nl v q #1 *2
+ns nl ns #1 *1
+ns nl ns ni #1 *2
+ns nl nz #1 *1
+ns nl nz ni #1 *2
+ns nl v n #0.000150841 *2
+ns nl v n ni #1 *2
+ns nl v ni #1 *2
+ns nl v v ni #1 *2
+ns ns #0.00224376 *1
+ns ns #0.989772 *1
+ns ns a a a ni #1 *2
+ns ns a a a nz nz #1 *2
+ns ns a b n ni #1 *2
+ns ns a g ni #1 *2
+ns ns a j a #1 *1
+ns ns a n #0.000188551 *2
+ns ns a n #0.000320537 *1
+ns ns a n #1 *1
+ns ns a n a n ni #1 *2
+ns ns a n d n #1 *1
+ns ns a n m #1 *1
+ns ns a n m ns #1 *1
+ns ns a n n #1 *2
+ns ns a n n #9.42756e-005 *2
+ns ns a n n k ni #1 *2
+ns ns a n n n ni #1 *2
+ns ns a n n ni #1 *2
+ns ns a n ni #0.333333 *1
+ns ns a n ni #0.666667 *2
+ns ns a n ni ni #1 *2
+ns ns a n ns #1 *1
+ns ns a n nz n u n #1 *1
+ns ns a n nz ni #1 *2
+ns ns a n v ni #1 *2
+ns ns a nh n #1 *2
+ns ns a nh n n ni #1 *2
+ns ns a nh ni #1 *2
+ns ns a ni #0.142857 *1
+ns ns a ni #0.857143 *2
+ns ns a ni n #1 *2
+ns ns a ni ni #1 *2
+ns ns a nl ni #1 *2
+ns ns a ns #1 *1
+ns ns a ns a #1 *1
+ns ns a ns ni #1 *2
+ns ns a nt ni #1 *1
+ns ns a nz n #1 *2
+ns ns a nz n n ni #1 *2
+ns ns a nz ni ni #1 *2
+ns ns a nz u n #1 *2
+ns ns a u n #1 *2
+ns ns a v n n n ni #1 *2
+ns ns a v n ni #1 *2
+ns ns a v ni #1 *2
+ns ns a v ns #1 *1
+ns ns a v ns n v #1 *2
+ns ns a v v n #1 *2
+ns ns b j #1 *2
+ns ns b l #5.65654e-005 *2
+ns ns b n #0.000169696 *2
+ns ns b n #0.333333 *1
+ns ns b n #0.666667 *2
+ns ns b n a v n #1 *1
+ns ns b n n #0.000169696 *2
+ns ns b n n #1 *2
+ns ns b n n n #1 *2
+ns ns b n n u #1 *2
+ns ns b n nh nz n #1 *2
+ns ns b n ni #1 *2
+ns ns b n v ni #1 *2
+ns ns b n v v v #1 *2
+ns ns b ni #0.928571 *2
+ns ns b ni n q #1 *2
+ns ns b ns n #1 *2
+ns ns b v #1 *2
+ns ns b v n #1 *2
+ns ns b v ni #1 *2
+ns ns c v n ni #1 *2
+ns ns d a n ni #1 *2
+ns ns d n #1 *1
+ns ns d nh n ni #1 *2
+ns ns d nh nz ni #1 *2
+ns ns d ni #1 *1
+ns ns d ni ni #1 *2
+ns ns d p nz nz n ni #1 *2
+ns ns d v n ni #1 *2
+ns ns g #1 *1
+ns ns g d n ni #1 *2
+ns ns g k ni #1 *2
+ns ns g ni #1 *2
+ns ns g ns #1 *1
+ns ns g v n v v ni #1 *2
+ns ns i n #5.65654e-005 *3
+ns ns i ni #1 *2
+ns ns j #0.00177238 *2
+ns ns j #0.969231 *2
+ns ns j b n v ni #1 *2
+ns ns j j #0.000113131 *2
+ns ns j j a ni #1 *2
+ns ns j j j #1 *2
+ns ns j m nz #1 *1
+ns ns j m q #1 *2
+ns ns j n #0.000377102 *2
+ns ns j n #1 *2
+ns ns j n j n #1 *2
+ns ns j n n #7.54205e-005 *2
+ns ns j n n n #1 *2
+ns ns j n n ni #1 *2
+ns ns j n n v ni #1 *2
+ns ns j n ni #0.333333 *1
+ns ns j n ni #0.666667 *2
+ns ns j n nz ni #1 *2
+ns ns j n v n #1 *2
+ns ns j nd ni #1 *2
+ns ns j ni #1 *2
+ns ns j ni n ni #1 *2
+ns ns j ni ni #1 *2
+ns ns j ns #1 *1
+ns ns j ns n u #1 *2
+ns ns j ns ni #1 *2
+ns ns j nz #1 *1
+ns ns j v n #1 *2
+ns ns j v n #9.42756e-005 *2
+ns ns j v q #1 *2
+ns ns l #0.000622219 *2
+ns ns m a n ni #1 *2
+ns ns m a n v ni #1 *2
+ns ns m a nh n v n #1 *2
+ns ns m a nz #1 *1
+ns ns m j #1 *2
+ns ns m j #7.54205e-005 *2
+ns ns m m ni v n #1 *2
+ns ns m n #0.000546798 *2
+ns ns m n #0.25 *1
+ns ns m n #0.75 *2
+ns ns m n n #0.000207406 *2
+ns ns m n n #0.5 *1
+ns ns m n n #0.5 *2
+ns ns m n n n ni ni #1 *2
+ns ns m n n ni #1 *2
+ns ns m n ni #1 *2
+ns ns m n ni ni #1 *2
+ns ns m n nz #1 *1
+ns ns m nd #1 *2
+ns ns m ni #0.954545 *2
+ns ns m ns #1 *1
+ns ns m ns ns u nz #1 *1
+ns ns m nz j #1 *2
+ns ns m nz n #1 *2
+ns ns m nz v ni #1 *2
+ns ns m q #1 *2
+ns ns m q j ni #1 *2
+ns ns m q n ni #1 *2
+ns ns m q n nz #1 *1
+ns ns m q nz #1 *1
+ns ns m q nz nz #1 *1
+ns ns m v a n ni #1 *2
+ns ns m v ni #1 *2
+ns ns m v nz #1 *1
+ns ns n #0.0016404 *3
+ns ns n #0.00659929 *1
+ns ns n #0.0138397 *2
+ns ns n #0.431535 *1
+ns ns n #0.568465 *2
+ns ns n a n #0.5 *1
+ns ns n a n #0.5 *2
+ns ns n a n n #0.000131986 *2
+ns ns n a n n #1 *2
+ns ns n a n ni #1 *2
+ns ns n a ni #1 *2
+ns ns n a v ni #1 *2
+ns ns n b l #7.54205e-005 *2
+ns ns n b n ni #1 *1
+ns ns n b ni #1 *2
+ns ns n b q ns ni #1 *2
+ns ns n c n nh ni #1 *2
+ns ns n c nz #1 *1
+ns ns n d j ni #1 *2
+ns ns n d ni #1 *2
+ns ns n d v q #1 *2
+ns ns n g n ni #1 *2
+ns ns n g n ni n i v #1 *2
+ns ns n j #0.000131986 *2
+ns ns n j j #1 *1
+ns ns n j m n #5.65654e-005 *2
+ns ns n j n #0.000226261 *2
+ns ns n j v r nz #1 *1
+ns ns n k a n ni #1 *2
+ns ns n k n ni #1 *2
+ns ns n k ni #1 *2
+ns ns n k ni n n n #1 *2
+ns ns n k ni wp a wp n ni #1 *2
+ns ns n k nl n #1 *1
+ns ns n k wp ni wp a n ni #1 *2
+ns ns n k wp ni wp ni #1 *2
+ns ns n m n #5.65654e-005 *2
+ns ns n m ni #1 *2
+ns ns n m ni m ni #1 *2
+ns ns n m q n #1 *2
+ns ns n n #0.000603364 *1
+ns ns n n #0.00599593 *2
+ns ns n n #0.253012 *1
+ns ns n n #0.746988 *2
+ns ns n n b n #1 *2
+ns ns n n d n #1 *1
+ns ns n n j #1 *2
+ns ns n n j #7.54205e-005 *2
+ns ns n n k ni #1 *2
+ns ns n n m ni #1 *2
+ns ns n n n #0.000207406 *1
+ns ns n n n #0.00150841 *2
+ns ns n n n #0.277778 *1
+ns ns n n n #0.722222 *2
+ns ns n n n d v n #1 *2
+ns ns n n n n #0.000282827 *2
+ns ns n n n n #0.166667 *1
+ns ns n n n n #0.833333 *2
+ns ns n n n n n #5.65654e-005 *2
+ns ns n n n n ni #1 *2
+ns ns n n n n nz ni #1 *2
+ns ns n n n ni #1 *2
+ns ns n n n ni a n ni #1 *2
+ns ns n n n ni a v m nz #1 *2
+ns ns n n n ni m m q n ni #1 *2
+ns ns n n n ni ni #1 *2
+ns ns n n n ns n #1 *2
+ns ns n n n nz #1 *1
+ns ns n n n v ni #1 *2
+ns ns n n n v v ni ni #1 *2
+ns ns n n nh #1 *2
+ns ns n n nh n #1 *1
+ns ns n n ni #0.924528 *2
+ns ns n n ni n ni #1 *2
+ns ns n n ni nd v n ni #1 *2
+ns ns n n ni ni #1 *2
+ns ns n n ni nt n ni #1 *1
+ns ns n n ni v #1 *2
+ns ns n n nl n ni #1 *1
+ns ns n n ns #1 *1
+ns ns n n ns n #0.000113131 *2
+ns ns n n nz #0.2 *2
+ns ns n n nz #0.8 *1
+ns ns n n nz n v n #1 *1
+ns ns n n nz ni #1 *2
+ns ns n n q #1 *2
+ns ns n n u #1 *2
+ns ns n n u v ni #1 *2
+ns ns n n v #1 *2
+ns ns n n v j n ni #1 *2
+ns ns n n v n #0.000169696 *2
+ns ns n n v n #1 *2
+ns ns n n v n v #1 *2
+ns ns n n v ni #1 *2
+ns ns n n v ns j n ni #1 *2
+ns ns n n v ns n ni n #1 *2
+ns ns n n v u #1 *2
+ns ns n n v v v n #1 *2
+ns ns n nd v #1 *1
+ns ns n nh n #1 *2
+ns ns n nh n ni #1 *2
+ns ns n nh nh #1 *1
+ns ns n nh ni #1 *2
+ns ns n nh ni n ni #1 *2
+ns ns n nh ni ni #1 *2
+ns ns n nh nz #1 *1
+ns ns n ni #0.95102 *2
+ns ns n ni i v #1 *2
+ns ns n ni j #1 *2
+ns ns n ni m n #1 *2
+ns ns n ni m q ni #1 *2
+ns ns n ni n #0.25 *1
+ns ns n ni n #0.75 *2
+ns ns n ni n n #0.5 *1
+ns ns n ni n n #0.5 *2
+ns ns n ni n nh #1 *2
+ns ns n ni n ni #0.2 *1
+ns ns n ni n ni #0.8 *2
+ns ns n ni n v n #1 *2
+ns ns n ni ni #1 *2
+ns ns n ni ni v ni #1 *2
+ns ns n ni ns ni #1 *2
+ns ns n ni q #1 *2
+ns ns n ni v n #1 *2
+ns ns n ni v v ni #1 *2
+ns ns n ni v v v q #1 *2
+ns ns n nl #1 *1
+ns ns n ns #1 *1
+ns ns n ns n #0.000395957 *2
+ns ns n ns n #1 *1
+ns ns n ns n n #1 *1
+ns ns n ns ni #1 *2
+ns ns n ns nt n n #1 *1
+ns ns n ns nz ni ni #1 *2
+ns ns n nz #1 *1
+ns ns n nz j #1 *2
+ns ns n nz n #1 *2
+ns ns n nz n #5.65654e-005 *2
+ns ns n nz n ni #1 *2
+ns ns n nz nh #1 *2
+ns ns n nz ni #0.1 *1
+ns ns n nz ni #0.9 *2
+ns ns n nz ns #1 *1
+ns ns n nz ns n #1 *2
+ns ns n nz nz #1 *1
+ns ns n nz v #1 *1
+ns ns n nz v n nz #1 *1
+ns ns n q #1 *2
+ns ns n q j ni #1 *2
+ns ns n r d nd u n v ni #1 *2
+ns ns n r nz #1 *1
+ns ns n u nz #1 *1
+ns ns n v #0.333333 *1
+ns ns n v #0.666667 *2
+ns ns n v a n ni #1 *2
+ns ns n v b n ni #1 *2
+ns ns n v j #1 *2
+ns ns n v n #0.000207406 *1
+ns ns n v n #0.000791915 *2
+ns ns n v n #0.421053 *2
+ns ns n v n #0.578947 *1
+ns ns n v n n #5.65654e-005 *1
+ns ns n v n n #5.65654e-005 *2
+ns ns n v n n v ni #1 *2
+ns ns n v n ni #0.428571 *2
+ns ns n v n ni #0.571429 *1
+ns ns n v n v n #1 *2
+ns ns n v n v q #1 *2
+ns ns n v ni #0.966667 *2
+ns ns n v ni n #1 *2
+ns ns n v ni n n ni #1 *2
+ns ns n v ni n v v v ni #1 *2
+ns ns n v ni ni #1 *2
+ns ns n v ni ni ni #1 *2
+ns ns n v ni ni ni m n ni #1 *2
+ns ns n v ns #1 *1
+ns ns n v nz n ni #1 *2
+ns ns n v q #1 *2
+ns ns n v u #1 *2
+ns ns n v v #1 *2
+ns ns n v v m q #1 *2
+ns ns n v v n #1 *2
+ns ns n v v ni #1 *2
+ns ns n v v nz #1 *1
+ns ns n v wp ni wp a n ni #1 *2
+ns ns n wp b n ni #1 *2
+ns ns n wp n wp n #9.42756e-005 *2
+ns ns n wp ni wp a n ni #1 *2
+ns ns n wp ni wp ni #1 *2
+ns ns n wp ni wp ni m n #1 *2
+ns ns n wp ni wp ni n n #1 *2
+ns ns nd a n n #1 *2
+ns ns nd a n ni #1 *2
+ns ns nd n nh #1 *1
+ns ns nd n ni #1 *2
+ns ns nd n ni n v n #1 *1
+ns ns nd n nz nd nz #1 *1
+ns ns nd n v #1 *1
+ns ns nd n v n #1 *2
+ns ns nd nd n #1 *1
+ns ns nd ni #1 *2
+ns ns nd ns #1 *1
+ns ns nd ns n nz #1 *1
+ns ns nd ns ns #1 *1
+ns ns nd nz #1 *1
+ns ns nd nz n q #1 *2
+ns ns nd nz nd v v j #1 *2
+ns ns nd v ni #1 *2
+ns ns nd v ni ni #1 *2
+ns ns nd v nz ni #1 *2
+ns ns nd v q n n #1 *2
+ns ns nh #0.153846 *2
+ns ns nh #0.846154 *1
+ns ns nh a nh n ni #1 *2
+ns ns nh a nz n ni #1 *2
+ns ns nh c ni #1 *2
+ns ns nh d r q #1 *2
+ns ns nh n #0.25 *2
+ns ns nh n #0.75 *1
+ns ns nh n j ni #1 *2
+ns ns nh n nh b n ni #1 *2
+ns ns nh n nh v ns #1 *1
+ns ns nh n ni #1 *2
+ns ns nh n ns #1 *1
+ns ns nh nh n n v ni #1 *2
+ns ns nh ni #0.5 *1
+ns ns nh ni #0.5 *2
+ns ns nh ni ni #1 *2
+ns ns nh nl #1 *1
+ns ns nh ns #1 *1
+ns ns nh nz #1 *1
+ns ns nh nz n #1 *1
+ns ns nh nz ni #1 *2
+ns ns nh nz ns #1 *1
+ns ns nh v ni #1 *2
+ns ns nh v v q #1 *1
+ns ns ni #0.000358247 *2
+ns ns ni #0.135135 *1
+ns ns ni #0.864865 *2
+ns ns ni a n ni #1 *2
+ns ns ni a n ni ns ni #1 *2
+ns ns ni a nd ni #1 *2
+ns ns ni a nz n a #1 *2
+ns ns ni b n #1 *2
+ns ns ni g q n #1 *2
+ns ns ni i v #1 *2
+ns ns ni j #1 *2
+ns ns ni m ni #1 *2
+ns ns ni m ni m ni #1 *2
+ns ns ni n #0.142857 *1
+ns ns ni n #0.857143 *2
+ns ns ni n c n ni #1 *2
+ns ns ni n m ni #1 *2
+ns ns ni n n #1 *2
+ns ns ni n n n #1 *2
+ns ns ni n n n ni #1 *2
+ns ns ni n ni #1 *2
+ns ns ni n ni nh ni #1 *2
+ns ns ni n nz ni #1 *2
+ns ns ni n v #1 *2
+ns ns ni n v ni #0.5 *1
+ns ns ni n v ni #0.5 *2
+ns ns ni nh n #1 *2
+ns ns ni nh n m v n #1 *2
+ns ns ni nh n m v nz m g v n #1 *2
+ns ns ni nh nh #1 *2
+ns ns ni nh nh ni #1 *2
+ns ns ni nh ni #1 *2
+ns ns ni nh nz j j ni #1 *2
+ns ns ni nh nz v n #1 *2
+ns ns ni ni #0.928571 *2
+ns ns ni ni n v #1 *2
+ns ns ni ni ni ni #1 *2
+ns ns ni ns n #1 *2
+ns ns ni ns n n v #1 *2
+ns ns ni ns n u #1 *2
+ns ns ni ns ni #1 *2
+ns ns ni ns ni ns ni #1 *2
+ns ns ni ns ns ni #1 *2
+ns ns ni nt v j n ni #1 *2
+ns ns ni nz #1 *1
+ns ns ni nz b n #1 *2
+ns ns ni nz n n #1 *2
+ns ns ni nz n n v #1 *2
+ns ns ni nz ni #1 *2
+ns ns ni nz ni nz nz q #1 *2
+ns ns ni nz ni v ni #1 *2
+ns ns ni nz ns v #1 *2
+ns ns ni v n #1 *2
+ns ns ni v n ni #1 *2
+ns ns ni v n ni ns ni #1 *2
+ns ns ni v n v #1 *2
+ns ns ni v ni #1 *2
+ns ns ni v nz ni n ni #1 *2
+ns ns ni wp ni wp ni #1 *2
+ns ns nl n #1 *2
+ns ns nl n n ni #1 *2
+ns ns nl n ni n #1 *2
+ns ns nl n v ni #1 *1
+ns ns nl ni #1 *1
+ns ns nl nz ni #1 *2
+ns ns ns #0.984615 *1
+ns ns ns a n #1 *1
+ns ns ns a n ni #1 *2
+ns ns ns a nh nh #1 *1
+ns ns ns a nh ni #1 *2
+ns ns ns a ni #1 *2
+ns ns ns a ns #1 *1
+ns ns ns b ni #1 *2
+ns ns ns b nz #1 *1
+ns ns ns b v ni #1 *2
+ns ns ns g k ni #1 *2
+ns ns ns j #0.000320537 *2
+ns ns ns j #1 *2
+ns ns ns j n #0.333333 *1
+ns ns ns j n #0.666667 *2
+ns ns ns j n #5.65654e-005 *2
+ns ns ns j ni #1 *2
+ns ns ns j v r nz n n #1 *1
+ns ns ns j v v n #1 *2
+ns ns ns m a #1 *2
+ns ns ns m n j ni #1 *2
+ns ns ns m n ni #1 *2
+ns ns ns m nd #1 *2
+ns ns ns m ni #1 *2
+ns ns ns m nz ni #1 *2
+ns ns ns m q #1 *1
+ns ns ns m q q nz #1 *1
+ns ns ns n #0.000584509 *1
+ns ns ns n #0.00173467 *2
+ns ns ns n #0.277778 *2
+ns ns ns n #0.722222 *1
+ns ns ns n k a n ni #1 *2
+ns ns ns n n #0.00084848 *2
+ns ns ns n n #0.428571 *1
+ns ns ns n n #0.571429 *2
+ns ns ns n n b n #1 *2
+ns ns ns n n n #0.000226261 *2
+ns ns ns n n ni #0.2 *1
+ns ns ns n n ni #0.8 *2
+ns ns ns n n ni ni #1 *2
+ns ns ns n n wp m wp ni #1 *2
+ns ns ns n nh n #1 *1
+ns ns ns n ni #1 *2
+ns ns ns n ni n #1 *2
+ns ns ns n ns nz ni #1 *2
+ns ns ns n nt v ni #1 *2
+ns ns ns n nz #1 *1
+ns ns ns n nz j #1 *2
+ns ns ns n nz n #1 *1
+ns ns ns n nz n ni v v #1 *2
+ns ns ns n nz ni #1 *2
+ns ns ns n nz ns n ni #1 *2
+ns ns ns n q #1 *2
+ns ns ns n u #1 *2
+ns ns ns n v #0.5 *1
+ns ns ns n v #0.5 *2
+ns ns ns n v a #1 *1
+ns ns ns n v n n #1 *2
+ns ns ns n v ni #1 *2
+ns ns ns n v q #1 *2
+ns ns ns n v u #1 *2
+ns ns ns n wp ni wp ni #1 *2
+ns ns ns nd g n #1 *2
+ns ns ns nd nh #1 *1
+ns ns ns nd ns #1 *1
+ns ns ns nh #1 *1
+ns ns ns nh n ni #1 *2
+ns ns ns nh nh v v n ni #1 *2
+ns ns ns nh ns #1 *1
+ns ns ns nh nz #1 *1
+ns ns ns ni #0.111111 *1
+ns ns ns ni #0.888889 *2
+ns ns ns ni n #1 *2
+ns ns ns ni n n ni #1 *2
+ns ns ns ni ni #1 *2
+ns ns ns ni v n ni #1 *2
+ns ns ns nl ni #1 *2
+ns ns ns ns #1 *1
+ns ns ns ns j #1 *2
+ns ns ns ns j #9.42756e-005 *2
+ns ns ns ns m ni #1 *2
+ns ns ns ns n #0.000245117 *2
+ns ns ns ns n #0.5 *1
+ns ns ns ns n #0.5 *2
+ns ns ns ns n ni #1 *2
+ns ns ns ns n nz #1 *1
+ns ns ns ns nh #1 *1
+ns ns ns ns nh ni #1 *2
+ns ns ns ns ni #1 *2
+ns ns ns ns ns #1 *1
+ns ns ns ns ns ni #1 *2
+ns ns ns ns nz #1 *1
+ns ns ns ns nz ni #1 *2
+ns ns ns ns nz ns #1 *1
+ns ns ns nt m q #1 *2
+ns ns ns nt ni #1 *2
+ns ns ns nz #1 *1
+ns ns ns nz n #0.000245117 *2
+ns ns ns nz n #0.25 *1
+ns ns ns nz n #0.75 *2
+ns ns ns nz n #7.54205e-005 *1
+ns ns ns nz n n #1 *1
+ns ns ns nz n ni #1 *2
+ns ns ns nz n nz #1 *1
+ns ns ns nz ni #0.125 *1
+ns ns ns nz ni #0.875 *2
+ns ns ns nz ns ni #1 *2
+ns ns ns nz ns ns #1 *1
+ns ns ns nz v u #1 *2
+ns ns ns nz v v n v v n n #1 *2
+ns ns ns p nh nd #1 *1
+ns ns ns v #0.333333 *2
+ns ns ns v #0.666667 *1
+ns ns ns v n ni #1 *2
+ns ns ns v n q ni #1 *2
+ns ns ns v nd ni #1 *2
+ns ns ns v nh ni #1 *2
+ns ns ns v ni #1 *2
+ns ns ns v ns #1 *1
+ns ns ns v nz #1 *1
+ns ns ns v v ni #1 *2
+ns ns ns v v v ni #1 *2
+ns ns ns wp ni wp ni #1 *2
+ns ns nt n #1 *1
+ns ns nt n n #1 *1
+ns ns nt n n ni #1 *2
+ns ns nt n ni #1 *1
+ns ns nt nh n #1 *2
+ns ns nt nh n v a n ni #1 *2
+ns ns nt ni n ni #1 *2
+ns ns nz #0.983516 *1
+ns ns nz a a a ni #1 *1
+ns ns nz a n v ni #1 *2
+ns ns nz b n n n #1 *1
+ns ns nz b n ni #1 *2
+ns ns nz b n ni n v v #1 *2
+ns ns nz b ni #1 *2
+ns ns nz d v v ni #1 *2
+ns ns nz j #1 *2
+ns ns nz n #0.00107474 *1
+ns ns nz n #0.00141413 *2
+ns ns nz n #0.333333 *1
+ns ns nz n #0.666667 *2
+ns ns nz n g nz #1 *1
+ns ns nz n n #0.000905046 *2
+ns ns nz n n #1 *1
+ns ns nz n n n #0.000226261 *2
+ns ns nz n n n #1 *1
+ns ns nz n n n ni #1 *2
+ns ns nz n n ni #1 *2
+ns ns nz n ni #0.952381 *2
+ns ns nz n ni n #1 *2
+ns ns nz n ni n n ni #1 *2
+ns ns nz n nz #1 *1
+ns ns nz n nz n #1 *2
+ns ns nz n nz n ni #1 *2
+ns ns nz n nz ni #1 *2
+ns ns nz n nz ns ni #1 *2
+ns ns nz n p nz ns #1 *1
+ns ns nz n u #1 *2
+ns ns nz n v n #0.000113131 *2
+ns ns nz n v n #1 *2
+ns ns nz n v ni #1 *2
+ns ns nz n v q #1 *2
+ns ns nz n v v n #1 *2
+ns ns nz nd #1 *1
+ns ns nz nd j #1 *2
+ns ns nz nd n nz #1 *1
+ns ns nz nh n #1 *1
+ns ns nz nh v v ni #1 *2
+ns ns nz ni #0.956522 *2
+ns ns nz ni n #1 *2
+ns ns nz ni n v #1 *2
+ns ns nz ni ni #1 *2
+ns ns nz ns #1 *1
+ns ns nz ns ni #1 *2
+ns ns nz ns ns #1 *1
+ns ns nz nz #1 *1
+ns ns nz nz n #0.000226261 *1
+ns ns nz nz n #1 *2
+ns ns nz nz n j n ni #1 *2
+ns ns nz nz nh n n #1 *2
+ns ns nz nz ni #1 *2
+ns ns nz nz nz nz #1 *1
+ns ns nz v #0.5 *1
+ns ns nz v #0.5 *2
+ns ns nz v a n ni #1 *2
+ns ns nz v n #0.000188551 *2
+ns ns nz v n ni #1 *2
+ns ns nz v n q #1 *2
+ns ns nz v ni #0.25 *1
+ns ns nz v ni #0.75 *2
+ns ns nz v ni nh v v #1 *2
+ns ns nz v q #1 *2
+ns ns nz v u #1 *2
+ns ns nz v v n v v n n #1 *2
+ns ns nz wp ni wp n ni #1 *2
+ns ns p a n n v ni #1 *2
+ns ns p b n ni #1 *2
+ns ns p k ni #1 *1
+ns ns p n v nh ni #1 *2
+ns ns p ns ni #1 *2
+ns ns p v n #1 *2
+ns ns r m n n #1 *1
+ns ns r n ni #1 *2
+ns ns r v n ni #1 *2
+ns ns u n #1 *1
+ns ns v #0.470588 *2
+ns ns v #0.529412 *1
+ns ns v a n #1 *2
+ns ns v a n n ni #1 *2
+ns ns v a n ni #1 *2
+ns ns v b n n n #1 *1
+ns ns v j ni #1 *2
+ns ns v n #0.000226261 *1
+ns ns v n #0.000829625 *2
+ns ns v n #0.1 *2
+ns ns v n #0.9 *1
+ns ns v n n #0.000188551 *2
+ns ns v n n #0.5 *1
+ns ns v n n #0.5 *2
+ns ns v n n n #1 *2
+ns ns v n n ni #1 *2
+ns ns v n n v n #1 *2
+ns ns v n ni #0.166667 *1
+ns ns v n ni #0.833333 *2
+ns ns v n q #1 *2
+ns ns v n v #1 *1
+ns ns v n v ni #1 *1
+ns ns v nd n #1 *1
+ns ns v nd nz n ni #1 *2
+ns ns v nd nz ns #1 *1
+ns ns v nh ni #1 *2
+ns ns v ni #0.941176 *2
+ns ns v ni b q #1 *2
+ns ns v ni ni #1 *2
+ns ns v ni ns ni #1 *2
+ns ns v ni q #1 *2
+ns ns v nl ni #1 *2
+ns ns v ns #1 *1
+ns ns v ns n nz #1 *1
+ns ns v ns nd #1 *1
+ns ns v ns ni #1 *2
+ns ns v ns ns #1 *1
+ns ns v ns nz n #1 *2
+ns ns v nz #1 *1
+ns ns v nz n #1 *2
+ns ns v nz ni #1 *2
+ns ns v nz ns #1 *1
+ns ns v nz v k wp ni wp ni #1 *2
+ns ns v nz v n #1 *2
+ns ns v p ni #1 *2
+ns ns v q #1 *2
+ns ns v q n #1 *1
+ns ns v q ni #1 *2
+ns ns v v #1 *2
+ns ns v v n #5.65654e-005 *2
+ns ns v v n a n ni #1 *2
+ns ns v v n ni #1 *2
+ns ns v v nh #1 *1
+ns ns v v nh n #1 *1
+ns ns v v ni #1 *2
+ns ns v v nz #0.333333 *2
+ns ns v v nz #0.666667 *1
+ns ns v v v n #1 *2
+ns ns wp a a a wp n #1 *2
+ns ns wp n n wp ni #1 *2
+ns ns wp ni wp ni #1 *2
+ns ns wp ns ni #1 *2
+ns ns wp ns v #1 *1
+ns ns wp ns v n ni #1 *2
+ns ns wp ns v ni #1 *2
+ns ns wp nt ns wp ni #1 *2
+ns ns x v ni #1 *2
+ns nt g nz #1 *1
+ns nt j ni #1 *2
+ns nt m q #1 *2
+ns nt n #0.000263972 *1
+ns nt n #0.000377102 *2
+ns nt n #0.923077 *1
+ns nt n k n #1 *2
+ns nt n n #0.000150841 *2
+ns nt n n #0.333333 *2
+ns nt n n #0.666667 *1
+ns nt n n #7.54205e-005 *1
+ns nt n n n #1 *1
+ns nt n n n ni #1 *2
+ns nt n n ni #1 *2
+ns nt n n ni n v n #1 *2
+ns nt n ni #0.285714 *1
+ns nt n ni #0.714286 *2
+ns nt n q #1 *2
+ns nt n v n #1 *2
+ns nt n v n #5.65654e-005 *2
+ns nt n v n ni #1 *2
+ns nt n v ni #1 *2
+ns nt n v v n #1 *1
+ns nt ni #0.2 *1
+ns nt ni #0.8 *2
+ns nt ni n v n #1 *2
+ns nt ni ni #1 *1
+ns nt ni v n ni #1 *2
+ns nt nz #1 *1
+ns nt nz v v #1 *2
+ns nt v n n j #1 *2
+ns nt v ni #0.333333 *2
+ns nt v ni #0.666667 *1
+ns nt v v #1 *2
+ns nt v v n #1 *2
+ns nz #0.000150841 *3
+ns nz #0.00309224 *2
+ns nz #0.905178 *1
+ns nz a a a n ni #1 *2
+ns nz a a a n v ni #1 *2
+ns nz a n #1 *2
+ns nz a n n #0.000226261 *2
+ns nz a n n v ni #1 *2
+ns nz a n n wp ni wp ni #1 *2
+ns nz a n ni #1 *2
+ns nz a n v ni #1 *2
+ns nz a ni #1 *2
+ns nz a ns #1 *1
+ns nz a ns ni #1 *2
+ns nz a ns ni ni #1 *2
+ns nz a ns wp a a a wp ni #1 *2
+ns nz a nz n #1 *2
+ns nz a v nh ni #1 *2
+ns nz b n #0.000282827 *2
+ns nz b n #1 *2
+ns nz b n n #0.000169696 *2
+ns nz b n n n #1 *2
+ns nz b n ni #1 *2
+ns nz b n nz n #1 *2
+ns nz b ni #1 *2
+ns nz b nz n #1 *2
+ns nz b q #1 *2
+ns nz c v ni #1 *2
+ns nz g a ni #1 *2
+ns nz g g n n #1 *2
+ns nz i n #0.000188551 *2
+ns nz i ni #1 *2
+ns nz j #1 *2
+ns nz j #7.54205e-005 *2
+ns nz j c nz #1 *1
+ns nz j n #0.000452523 *2
+ns nz j n #1 *2
+ns nz j n n #0.000113131 *2
+ns nz j n n n #1 *2
+ns nz j n ni #1 *2
+ns nz j ni #1 *2
+ns nz j nz ns #1 *1
+ns nz j v n #0.000207406 *2
+ns nz j v ni #1 *2
+ns nz m n #1 *2
+ns nz m n n ni #1 *2
+ns nz m n v ni #1 *2
+ns nz m ns nz #1 *1
+ns nz m q n #1 *2
+ns nz m q n v v ni #1 *2
+ns nz m q v #1 *1
+ns nz m q v ns nz #1 *1
+ns nz n #0.000188551 *3
+ns nz n #0.00497775 *1
+ns nz n #0.017705 *2
+ns nz n #0.324675 *1
+ns nz n #0.675325 *2
+ns nz n a #1 *2
+ns nz n a n n #0.000188551 *2
+ns nz n a n ni #1 *2
+ns nz n a ns n #1 *2
+ns nz n c n ni #1 *2
+ns nz n c v #1 *1
+ns nz n c v n ni #1 *2
+ns nz n d n n ni #1 *2
+ns nz n g #1 *2
+ns nz n j #0.000320537 *2
+ns nz n j #1 *2
+ns nz n j ni #1 *2
+ns nz n k j ni #1 *2
+ns nz n k n ni #1 *2
+ns nz n k ni #1 *2
+ns nz n l #7.54205e-005 *2
+ns nz n m n #5.65654e-005 *2
+ns nz n m q #1 *2
+ns nz n n #0.000509088 *1
+ns nz n n #0.00912588 *2
+ns nz n n #0.131579 *1
+ns nz n n #0.868421 *2
+ns nz n n a v ni #1 *2
+ns nz n n i #1 *2
+ns nz n n n #0.000131986 *1
+ns nz n n n #0.00292254 *2
+ns nz n n n #1 *2
+ns nz n n n n #0.000377102 *2
+ns nz n n n n #1 *2
+ns nz n n n ni #0.333333 *1
+ns nz n n n ni #0.666667 *2
+ns nz n n ni #0.955224 *2
+ns nz n n ni ni #1 *2
+ns nz n n ni ns ni #1 *2
+ns nz n n ns n #9.42756e-005 *2
+ns nz n n nz #1 *1
+ns nz n n q #1 *2
+ns nz n n v n #0.000490233 *2
+ns nz n n v n #0.333333 *1
+ns nz n n v n #0.666667 *2
+ns nz n n v n n n #1 *2
+ns nz n n v ni #1 *2
+ns nz n ni #0.931624 *2
+ns nz n ni n #1 *2
+ns nz n ni n n #1 *2
+ns nz n ni n ni #1 *2
+ns nz n ni n v #1 *2
+ns nz n ni ni #1 *2
+ns nz n ni ns ni #1 *2
+ns nz n ni ns ns ns n ni ni #1 *2
+ns nz n ni q #1 *2
+ns nz n ni v n #1 *2
+ns nz n ni v n v v n #1 *2
+ns nz n ni v v ni #1 *2
+ns nz n ns n #0.000245117 *2
+ns nz n ns n n #5.65654e-005 *2
+ns nz n ns n ni #1 *2
+ns nz n ns ni #1 *2
+ns nz n nz #1 *1
+ns nz n nz n #1 *2
+ns nz n nz n n ni #1 *2
+ns nz n nz ni #1 *2
+ns nz n nz v v ni #1 *2
+ns nz n q #1 *2
+ns nz n u #1 *2
+ns nz n v #1 *2
+ns nz n v a n ni #1 *2
+ns nz n v n #0.00122558 *2
+ns nz n v n #1 *2
+ns nz n v n n #1 *2
+ns nz n v n ni #1 *2
+ns nz n v ni #1 *2
+ns nz n v q #1 *2
+ns nz n v v #1 *2
+ns nz n v v ni #1 *2
+ns nz n v v nz nz #1 *1
+ns nz n v wp ni wp #1 *2
+ns nz n v wp ni wp a n ni #1 *2
+ns nz n wp n wp n #0.000150841 *2
+ns nz n wp ni wp ni #1 *2
+ns nz nd #1 *1
+ns nz nd n j n ni #1 *2
+ns nz nd n ni #1 *1
+ns nz nd n q #1 *2
+ns nz nh #1 *2
+ns nz nh n #0.333333 *2
+ns nz nh n #0.666667 *1
+ns nz nh n ni #1 *2
+ns nz nh n v ni #1 *2
+ns nz nh ni #1 *2
+ns nz ni #0.000282827 *2
+ns nz ni #0.951153 *2
+ns nz ni a n ni #1 *2
+ns nz ni m ni #1 *2
+ns nz ni m ni m ni #1 *2
+ns nz ni n #1 *2
+ns nz ni n n #0.333333 *1
+ns nz ni n n #0.666667 *2
+ns nz ni n n n #1 *2
+ns nz ni n n n v v v #1 *2
+ns nz ni n n ni #1 *2
+ns nz ni n n v ni #1 *2
+ns nz ni n nh #1 *2
+ns nz ni n ni #1 *2
+ns nz ni n q #1 *2
+ns nz ni n v #1 *2
+ns nz ni nd n v ni #1 *2
+ns nz ni nh n #1 *2
+ns nz ni ni #1 *2
+ns nz ni ns m q m ni #1 *2
+ns nz ni ns ni #1 *2
+ns nz ni ns ni n n #1 *2
+ns nz ni ns v n #1 *2
+ns nz ni ns v n ni #1 *2
+ns nz ni nz v ni #1 *2
+ns nz ni v #1 *2
+ns nz ni v j ni #1 *2
+ns nz ni v n #1 *2
+ns nz ni v n ni #1 *2
+ns nz ni v ni ns v n #1 *2
+ns nz ni v nz n #1 *2
+ns nz ni v q #1 *2
+ns nz ni v v n #1 *2
+ns nz nl n #0.333333 *1
+ns nz nl n #0.666667 *2
+ns nz ns #0.941176 *1
+ns nz ns d ni #1 *1
+ns nz ns j #1 *2
+ns nz ns m ni #1 *2
+ns nz ns n #0.000131986 *2
+ns nz ns n #1 *2
+ns nz ns n ni #1 *2
+ns nz ns n ni n ni #1 *2
+ns nz ns nh n ni #1 *2
+ns nz ns ni #1 *2
+ns nz ns ns #1 *1
+ns nz ns ns n ni #1 *2
+ns nz ns nz n n #1 *1
+ns nz ns q #1 *2
+ns nz ns v ni #1 *2
+ns nz nt n a n ni #1 *2
+ns nz nz #0.222222 *2
+ns nz nz #0.777778 *1
+ns nz nz #5.65654e-005 *2
+ns nz nz d v v v n #1 *2
+ns nz nz m nz ni #1 *2
+ns nz nz n #0.000131986 *2
+ns nz nz n #0.000339392 *1
+ns nz nz n #0.363636 *1
+ns nz nz n #0.636364 *2
+ns nz nz n n #7.54205e-005 *2
+ns nz nz n ni #1 *2
+ns nz nz n v n ni #1 *2
+ns nz nz ni #0.974359 *2
+ns nz nz nz #1 *1
+ns nz nz nz nz #1 *1
+ns nz nz v n #1 *2
+ns nz nz v ni #1 *2
+ns nz q #1 *2
+ns nz u v ni #1 *2
+ns nz v #1 *2
+ns nz v a n #0.2 *2
+ns nz v a n #0.8 *1
+ns nz v a n ni #1 *2
+ns nz v b ni nz n #1 *2
+ns nz v g ni #1 *2
+ns nz v n #0.00182895 *2
+ns nz v n #0.384615 *1
+ns nz v n #0.615385 *2
+ns nz v n #9.42756e-005 *1
+ns nz v n n #0.000452523 *2
+ns nz v n n n #0.000113131 *2
+ns nz v n n ni #1 *2
+ns nz v n ni #1 *2
+ns nz v n ns ni #1 *2
+ns nz v n v ni #1 *2
+ns nz v n v ni ni #1 *2
+ns nz v ni #1 *2
+ns nz v ni ni #1 *2
+ns nz v ni ni n n c v v ni #1 *2
+ns nz v ns a a n n #1 *2
+ns nz v ns j n n n n #1 *2
+ns nz v q #1 *2
+ns nz v u #1 *2
+ns nz v v #1 *2
+ns nz v v n #0.000113131 *2
+ns nz v v n #1 *2
+ns nz v v n m ni m q #1 *2
+ns nz v v ni #1 *2
+ns nz v v v ni #1 *2
+ns nz wp a n v n #1 *2
+ns nz wp n wp n #0.000150841 *2
+ns nz wp n wp n n #7.54205e-005 *2
+ns nz wp ni wp n ni #1 *2
+ns nz wp ni wp ni #1 *2
+ns nz x nh n #1 *2
+ns nz x v ni #1 *2
+ns o r #1 *1
+ns p a #1 *1
+ns p a ni #1 *2
+ns p j #1 *1
+ns p n #1 *1
+ns p n n ni #1 *2
+ns p n ns #1 *1
+ns p n nz #1 *1
+ns p n v ni #1 *2
+ns p nh n n n #1 *1
+ns p nh n wp m wp ni #1 *2
+ns p nh nz n n #1 *2
+ns p ns #1 *1
+ns p ns n n ni #1 *2
+ns p ns ni #1 *2
+ns p ns nz #1 *1
+ns p ns v ns nz ni #1 *2
+ns p nt ni #1 *2
+ns p nz ni #1 *2
+ns p v n #1 *2
+ns p v n nz ni #1 *2
+ns q #0.999522 *2
+ns q a n #1 *1
+ns q g ni ni #1 *2
+ns q n #1 *2
+ns q n j #1 *2
+ns q n n m n #1 *2
+ns q n ni #1 *2
+ns q n ni ni #1 *2
+ns q n v n ni #1 *2
+ns q nh nz n n nz #1 *1
+ns q nz #1 *1
+ns q v n ni #1 *2
+ns q v n wp ni wp ni #1 *2
+ns r #1 *1
+ns r a nz ni #1 *2
+ns r ni #1 *2
+ns r ni n #1 *2
+ns r ns #1 *1
+ns r q nz #1 *1
+ns r r nz #1 *1
+ns r u ns #1 *1
+ns u j #1 *1
+ns u n n #7.54205e-005 *2
+ns u n n v ni #1 *2
+ns u n ni #1 *2
+ns u n v #1 *2
+ns u nh n #1 *1
+ns v #0.000188551 *3
+ns v #0.388889 *2
+ns v #0.611111 *1
+ns v a #1 *2
+ns v a a n ni #1 *2
+ns v a j ni ni n n v n #1 *2
+ns v a n #0.000188551 *2
+ns v a n #1 *2
+ns v a n n #1 *2
+ns v a n n n ni #1 *2
+ns v a n n ni #1 *2
+ns v a n ni #1 *2
+ns v a n v ni #1 *2
+ns v a ni #1 *2
+ns v a v n ni #1 *2
+ns v b n ni #1 *2
+ns v b ni #1 *2
+ns v b nz n n #1 *1
+ns v b nz ns #1 *1
+ns v c d v v ni #1 *2
+ns v c n #7.54205e-005 *2
+ns v c n n #1 *2
+ns v c n n n #0.000150841 *2
+ns v c n n nz ni #1 *2
+ns v c n v n #1 *2
+ns v c n v q #1 *2
+ns v c v ni #1 *2
+ns v d nz #1 *1
+ns v d v ni #1 *2
+ns v g #1 *2
+ns v g a ni #1 *1
+ns v g n #1 *1
+ns v g ni #1 *2
+ns v g q ni #1 *2
+ns v i n #1 *2
+ns v i ni #1 *2
+ns v j #1 *2
+ns v j a m n #1 *1
+ns v j a n ni #1 *2
+ns v j n #0.000546798 *2
+ns v j n #1 *2
+ns v j n k a n ni #1 *2
+ns v j n n #9.42756e-005 *2
+ns v j n n ni #1 *2
+ns v j n v #1 *2
+ns v j n v n #1 *2
+ns v j nh ni #1 *2
+ns v j ni #1 *2
+ns v j ni a q nd n #1 *2
+ns v j ni n v #1 *2
+ns v j nz n #1 *2
+ns v j nz ni #1 *2
+ns v j v ni #1 *2
+ns v m ni #1 *2
+ns v m ni v a n #1 *2
+ns v m wp a n n #1 *2
+ns v n #0.00179124 *1
+ns v n #0.00980466 *2
+ns v n #0.373016 *1
+ns v n #0.626984 *2
+ns v n #7.54205e-005 *3
+ns v n a n ni #1 *2
+ns v n a nh nh ni #1 *2
+ns v n b n ni #1 *2
+ns v n c n n #5.65654e-005 *2
+ns v n c n ni #1 *2
+ns v n d nz v j ni #1 *2
+ns v n d v ni #1 *1
+ns v n j #1 *2
+ns v n j nd ni #1 *1
+ns v n m ni #1 *2
+ns v n m q nz nz ni #1 *2
+ns v n n #0.000226261 *1
+ns v n n #0.00188551 *2
+ns v n n #0.181818 *1
+ns v n n #0.818182 *2
+ns v n n #5.65654e-005 *3
+ns v n n n #0.000395957 *2
+ns v n n n #1 *2
+ns v n n n n #1 *2
+ns v n n n n v ni #1 *2
+ns v n n n ni #1 *2
+ns v n n n v n #1 *2
+ns v n n n v ni #1 *2
+ns v n n ni #1 *2
+ns v n n ni ni #1 *2
+ns v n n ni v q #1 *2
+ns v n n nz #1 *1
+ns v n n v #1 *2
+ns v n n v n #1 *2
+ns v n n v n #9.42756e-005 *2
+ns v n n v ni #1 *2
+ns v n n v ni n v n ni #1 *2
+ns v n n wp ni wp ni #1 *2
+ns v n nh #1 *2
+ns v n ni #0.134021 *1
+ns v n ni #0.865979 *2
+ns v n ni a n ni #1 *2
+ns v n ni m n ns v v #1 *2
+ns v n ni n c n a ni #1 *2
+ns v n ni n ni #1 *2
+ns v n ni ni #1 *2
+ns v n ni ns n #1 *2
+ns v n ni v m q #1 *2
+ns v n ns n #0.000113131 *2
+ns v n ns ni #1 *2
+ns v n nz #1 *1
+ns v n nz ni #1 *2
+ns v n nz ns g nh ni #1 *2
+ns v n nz ns ns #1 *1
+ns v n nz v n #1 *2
+ns v n q #1 *2
+ns v n v #1 *2
+ns v n v n #0.000697639 *2
+ns v n v n #1 *2
+ns v n v n ni #1 *2
+ns v n v ni #1 *2
+ns v n v ni ni #1 *2
+ns v n v ni ni ni #1 *2
+ns v n wp ni wp v a n ni #1 *2
+ns v nd ni j #1 *2
+ns v nd nz #1 *1
+ns v nd nz nz #1 *1
+ns v nd v ni #1 *2
+ns v nh #0.333333 *1
+ns v nh #0.666667 *2
+ns v nh n n ni ns ni #1 *2
+ns v nh ni #0.4 *1
+ns v nh ni #0.6 *2
+ns v nh ni ni #1 *2
+ns v nh nz #1 *1
+ns v ni #0.1125 *1
+ns v ni #0.8875 *2
+ns v ni a n #1 *2
+ns v ni i n #1 *2
+ns v ni n #0.125 *1
+ns v ni n #0.875 *2
+ns v ni n n #1 *2
+ns v ni n n n #1 *2
+ns v ni n n ni #1 *2
+ns v ni n n v #1 *2
+ns v ni n ni #1 *2
+ns v ni n v v #1 *2
+ns v ni n v v n #1 *2
+ns v ni ni #1 *2
+ns v ni ni ni #1 *2
+ns v ni ns n #0.000113131 *2
+ns v ni ns n #1 *2
+ns v ni ns ni #1 *2
+ns v ni ns ni v nz n ni #1 *2
+ns v ni ns ns ni #1 *2
+ns v ni nz nz #1 *2
+ns v ni q #1 *2
+ns v ni v nh n #1 *2
+ns v ni v v ni #1 *2
+ns v nl n q #1 *2
+ns v ns #1 *1
+ns v ns n #0.00115016 *2
+ns v ns n #0.125 *1
+ns v ns n #0.875 *2
+ns v ns n n #9.42756e-005 *2
+ns v ns n ni #1 *2
+ns v ns ni #1 *2
+ns v ns ni n #1 *2
+ns v ns ns n #1 *2
+ns v ns nz #1 *1
+ns v ns v n #1 *2
+ns v ns v n n #1 *2
+ns v ns v ni #1 *2
+ns v nt v n #1 *2
+ns v nz #1 *1
+ns v nz d v v ni #1 *2
+ns v nz n #1 *2
+ns v nz n #7.54205e-005 *2
+ns v nz n n ni #1 *2
+ns v nz n ni #1 *2
+ns v nz n v ni #1 *2
+ns v nz ni #0.947368 *2
+ns v nz ns g nh ni #1 *2
+ns v nz nz #1 *1
+ns v nz v #0.5 *1
+ns v nz v #0.5 *2
+ns v nz v q #1 *2
+ns v p a ns #1 *2
+ns v p n #1 *2
+ns v p n n n ns n n #1 *2
+ns v p n ni #1 *2
+ns v p n ni ni #1 *2
+ns v q #0.139535 *1
+ns v q #0.860465 *2
+ns v q b nd #1 *2
+ns v q n #1 *1
+ns v q nz ni #1 *2
+ns v r #1 *1
+ns v u #1 *2
+ns v u j n #1 *2
+ns v u nh n v n #1 *1
+ns v u ni #1 *2
+ns v v #0.956522 *2
+ns v v a n n a n ni #1 *2
+ns v v a n v n v ni #1 *2
+ns v v c a v n #1 *2
+ns v v g ni #1 *2
+ns v v j ni #1 *2
+ns v v n #0.000113131 *1
+ns v v n #0.00081077 *2
+ns v v n #0.363636 *1
+ns v v n #0.636364 *2
+ns v v n a n ni #1 *2
+ns v v n j #1 *2
+ns v v n n #0.5 *1
+ns v v n n #0.5 *2
+ns v v n n #5.65654e-005 *2
+ns v v n n m n m q #1 *2
+ns v v n n m n ni #1 *2
+ns v v n n n ni #1 *2
+ns v v n n ni #1 *2
+ns v v n n ni q #1 *2
+ns v v n ni #0.928571 *2
+ns v v n ni ni #1 *2
+ns v v n ni ni a a a n n #1 *2
+ns v v n v ni #1 *2
+ns v v n v ns n ni #1 *2
+ns v v n v ns nz n #7.54205e-005 *2
+ns v v nh #1 *2
+ns v v ni #0.972222 *2
+ns v v ni n #1 *2
+ns v v ni ni #1 *2
+ns v v nl v ni #1 *2
+ns v v ns #1 *1
+ns v v nz p ns ni #1 *2
+ns v v nz v n #1 *2
+ns v v q #1 *2
+ns v v q ns ni #1 *2
+ns v v v #1 *2
+ns v v v n #0.000150841 *2
+ns v v v n #1 *2
+ns v v v n n ni #1 *2
+ns v v v n ni #1 *2
+ns v v v ni #1 *2
+ns v v wp ni wp n ni #1 *2
+ns v wp n wp n #5.65654e-005 *2
+ns v wp ni wp ni #1 *2
+ns wp a nh wp v v n #1 *2
+ns wp a nz wp ni #1 *2
+ns wp a wp n ni #1 *2
+ns wp j wp #1 *2
+ns wp m d v wp n ni #1 *2
+ns wp m wp ni #1 *1
+ns wp n n wp n ni ni #1 *2
+ns wp n n wp n v ni #1 *2
+ns wp n ni #1 *2
+ns wp n wp n #1 *2
+ns wp n wp n ni #1 *2
+ns wp n wp ni #1 *2
+ns wp n wp v n #1 *2
+ns wp ni wp n n #1 *2
+ns wp ni wp ni #1 *2
+ns wp ns #1 *1
+ns wp ns a ni #1 *2
+ns wp ns n #1 *2
+ns wp ns n #7.54205e-005 *3
+ns wp ns n n #5.65654e-005 *2
+ns wp ns n ni #1 *2
+ns wp ns n wp ni #1 *2
+ns wp ns ni #1 *2
+ns wp ns ns v ni wp n n #1 *2
+ns wp ns nz wp ns wp ni #1 *2
+ns wp ns u n wp ni #1 *2
+ns wp ns v ni #1 *2
+ns wp ns wp n b ni #1 *2
+ns wp ns wp n n ni #1 *2
+ns wp ns wp n ni #1 *2
+ns wp ns wp n ni ni #1 *2
+ns wp ns wp ni #1 *2
+ns wp ns wp nz n v n #1 *2
+ns wp ns wp nz nh n #1 *1
+ns wp nz ni #1 *2
+ns wp nz ni n n ni #1 *2
+ns wp nz v #1 *1
+ns wp nz wp #1 *1
+ns wp nz wp n #1 *2
+ns wp nz wp n #9.42756e-005 *2
+ns wp nz wp n n #5.65654e-005 *2
+ns wp nz wp n ni #1 *2
+ns wp nz wp ni #1 *2
+ns wp p ns ni #1 *2
+ns wp q ni #1 *2
+ns wp v a n ni wp #1 *2
+ns wp v wp n n ni #1 *2
+ns ws n #0.000414813 *2
+ns ws n n #0.000113131 *2
+ns x g n ni #1 *2
+ns x g ni #1 *2
+nz a n #0.000263972 *2
+nz a n #5.65654e-005 *1
+nz a n n #0.000150841 *2
+nz b n #0.000169696 *2
+nz i n #0.000226261 *2
+nz j #0.000886191 *2
+nz j n #0.000433668 *2
+nz j v n #5.65654e-005 *2
+nz m n #0.000169696 *2
+nz n #0.00143299 *3
+nz n #0.00705181 *1
+nz n #0.0417264 *2
+nz n a n n #0.000169696 *2
+nz n j n #9.42756e-005 *2
+nz n n #0.000754205 *1
+nz n n #0.00952183 *2
+nz n n #7.54205e-005 *3
+nz n n n #0.00214948 *2
+nz n n n #7.54205e-005 *1
+nz n n n n #0.000565654 *2
+nz n n nz n #0.000584509 *3
+nz n n v n #0.000339392 *2
+nz n ns n #0.000377102 *2
+nz n ns n #5.65654e-005 *1
+nz n ns n n #5.65654e-005 *2
+nz n v n #0.00116902 *2
+nz n v n n #0.000113131 *2
+nz n v v n #5.65654e-005 *2
+nz n wp n wp n #9.42756e-005 *2
+nz n wp ns wp n #7.54205e-005 *2
+nz nd n #7.54205e-005 *1
+nz ni #0.000282827 *2
+nz nl n #0.000207406 *2
+nz ns n #0.000697639 *2
+nz ns n n #0.000169696 *2
+nz ns n n #7.54205e-005 *3
+nz nz #0.000245117 *2
+nz nz #5.65654e-005 *1
+nz nz n #0.000207406 *2
+nz nz n #7.54205e-005 *1
+nz nz n n #9.42756e-005 *2
+nz v n #0.000131986 *1
+nz v n #0.00120673 *2
+nz v n n #0.000207406 *2
+nz v v n #5.65654e-005 *2
+nz wp n wp n #9.42756e-005 *2
+nz wp ns wp n #0.000207406 *2
+nz wp ns wp n n #0.000131986 *2
+nz wp nz n #9.42756e-005 *2

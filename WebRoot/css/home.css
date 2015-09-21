@@ -1,0 +1,176 @@
+* { padding: 0; margin: 0; border: 0; }
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:active {text-decoration: none;}
+a:hover {text-decoration: none;}
+
+#logo{
+	background-image:url(../images/logo.png);
+	background-repeat:no-repeat;
+	width:850px;
+	height:214px;
+	margin-top:50px;
+	margin-bottom:10px;
+}
+#stay{
+	width:850px;
+	min-height:250px;
+	margin-top:50px;
+	margin-bottom:10px;
+}
+.mid{
+	height:34px;
+	float:left;
+	margin-left:200px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+.button {
+	margin-top:10px;
+	float:left;
+    width:131px;
+    height:34px;
+    display:block;
+    background:url(../images/button2.png) top no-repeat;
+	text-align:center; 
+}
+.button:hover {
+	 cursor:pointer;
+	
+}
+
+.search{
+	width:471px;
+	height:34px;
+	margin-bottom:10px;
+	background-image:url(../images/sousuo.png);
+	background-repeat:no-repeat;
+	padding-left:40px;
+	padding-right:-40px;
+}
+#footer{
+	clear:both;
+	font-size:0.85em;
+	margin-top:10px;
+	color:#999;
+}
+body{
+	background-color:#fff;
+}
+	
+.list{
+	float:left;
+	margin-left:40px;
+	list-style-type:none;
+}
+
+#change{
+	width:990px;
+	min-height:150px;
+}
+
+#tabs  > div{
+	min-height:500px;
+	width:990px;
+	position: absolute;
+	border:#ddd solid;
+	border-bottom-width:1px;
+	border-top-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+}
+
+#nav{
+	width:990px;
+	height:40px;
+	background-image:url(../images/libg_home.png);
+	margin-top:10px;
+	text-align:center;
+	border:#ddd solid;
+	border-bottom-width:0px;
+	border-top-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	}	
+#nav a{
+	padding-top:10px;
+	color:#000;
+	float:left;
+	width:129px;
+	text-align: center;
+	height:30px;
+	font-size:14px;
+}
+#nav li{
+	float:left;
+	width:129px;
+	text-align: center;
+	margin-top: 0px;
+	border-right: 1px solid #FFF;
+	height:40px;
+}
+#nav a:hover{
+	color:#555;
+	background-color:#EEE;}
+.current{
+	background-image:url(../images/tab.png);
+	background-position:0px 0px -15px -15px;
+}
+#search{
+	min-height:560px;
+	}
+	
+.result{
+	width:990px;
+	margin-top:20px;
+	}
+	
+ p a{
+	 margin-left:10px;
+	 margin-right:10px;
+	 color:blue;
+	 }
+	 
+#jichu{
+	background-color:#FFF;
+    background-repeat:no-repeat;
+	background-image:url(../images/jichu.jpg);
+	}
+#moren{
+
+	}
+#renwu{
+	background-color:#FFF;
+		background-repeat:no-repeat;
+	background-image:url(../images/renwu.jpg);}
+	
+#caozuo{
+	background-color:#FFF;
+		background-repeat:no-repeat;
+	background-image:url(../images/buzhou.jpg);}
+#xinwen{
+	background-color:#FFF;
+		background-repeat:no-repeat;
+	background-image:url(../images/xinwen.jpg);}
+#gegu{
+	background-color:#FFF;
+		background-repeat:no-repeat;
+	background-image:url(../images/gegu.jpg);}
+.gegu_qita a:link{
+	color:#FFF;
+}
+.gegu_qita a:hover{
+	color:#FFF;
+	text-decoration:underline;
+}
+.gegu_qita a:visited{
+	color:#FFF;
+	text-decoration:underline;
+}
+.gegu_qita a{
+	border-right:#FFF solid 1px;
+}
+.gegu_qita{
+	width:990px;
+	clear:both;
+}

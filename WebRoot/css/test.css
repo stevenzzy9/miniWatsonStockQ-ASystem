@@ -1,0 +1,145 @@
+* { padding: 0; margin: 0; border: 0; }
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:active {text-decoration: none;}
+a:hover {text-decoration: none;}
+
+#logo{
+	background-image:url(../images/logo.png);
+	background-repeat:no-repeat;
+	width:850px;
+	height:214px;
+	margin-top:50px;
+	margin-bottom:10px;
+}
+
+.button {
+	float:left;
+    width:140px;
+    height:32px;
+    display:block;
+    background:url(../images/button2.png) top no-repeat;
+	text-align:center; 
+}
+.button:hover{
+	background:url(../images/button2.png) bottom no-repeat;
+}
+.search{
+	float:left;
+	text-align:center;
+	width:410px;
+	height:30px;
+	margin-bottom:10px;
+	background-image:url(../images/%E6%90%9C%E7%B4%A2%E6%A0%8F.png);
+	background-repeat:no-repeat;
+	padding-left:40px;
+	padding-right:-40px;
+}
+#copyright{
+	font-size:0.85em;
+	margin-top:10px;
+	color:#999;
+}
+body{
+	background-color:#f1f1f1;
+}
+	
+.list{
+	float:left;
+	margin-left:40px;
+	list-style-type:none;
+}
+
+#change{
+	width:990px;
+	height:150px;
+}
+
+#tabs  > div{
+	min-height:500px;
+	width:990px;
+	position: absolute;
+		background-image:url(../images/s_bg.png);
+	background-repeat:repeat-x;
+	background-color:#d5d5d5;
+}
+
+#nav{
+	width:990px;
+	height:40px;
+	background-color:#DDD;
+	margin-top:10px;
+	text-align:center;
+	}	
+#nav a{
+	padding-top:10px;
+	color:#000;
+	float:left;
+	width:129px;
+	text-align: center;
+	height:30px;
+	font-size:14px;
+}
+#nav li{
+	float:left;
+	width:129px;
+	text-align: center;
+	margin-top: 0px;
+	border-right: 1px solid #FFF;
+	height:40px;
+}
+#nav a:hover{
+	color:#555;
+	background-color:#EEE;}
+.current{
+	background-image:url(../images/tab.png);
+	background-position:0px 0px -15px -15px;
+}
+#search{
+	min-height:560px;
+	}
+	
+.result{
+	width:990px;
+	margin-top:20px;
+	}
+	
+ p a{
+	 margin-left:10px;
+	 margin-right:10px;
+	 color:blue;
+	 }
+	 
+#jichu{
+	background-color:#FFF;
+	}
+#moren{
+	background-image:url(../images/s_bg.png);
+	background-repeat:repeat-x;
+	background-color:#d5d5d5;
+	}
+#renwu{
+	background-color:#FFF;
+	}
+	
+#caozuo{
+	background-color:#FFF;
+	}
+#gegu{
+	background-color:#FFF;
+}
+.title{
+	margin-top:55px;
+	background-color:#CCC;
+	width:800px;
+	height:30px;
+}
+
+.words{
+	background-color:#f1f1f1;
+	width:800px;
+	min-height:230px;
+	margin-top:5px;
+	margin-bottom:50px;
+}
+.words:hover{background-color:#FFF;}

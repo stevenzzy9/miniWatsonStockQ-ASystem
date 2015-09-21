@@ -1,0 +1,17 @@
+<html>
+<body> 
+ <table border="1" style="color:red;">
+  <tr>
+  <td>编码位</td><td>1</td><td>	2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
+  </tr>
+  <tr>
+  <td>编码示例</td><td>C</td><td>b</td><td>0</td><td>7</td><td>A</td><td>0</td><td>3</td><td>=</td>
+  </tr><tr>
+  <td>类别级别</td><td>第一级</td><td>第二级</td><td colspan="2">第三级</td><td>第四级</td><td colspan="2">第五级</td><td>标记位</td><td>
+  </tr><tr>
+ <td>类别含义</td><td>大类</td><td>中类</td><td colspan="2">小类</td><td>词群</td><td colspan="2">原子词群</td><td>词语关系</td>
+ </tr>
+ </table>
+  <br/>
+</body>
+</html>
